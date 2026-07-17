@@ -1,0 +1,2432 @@
+{
+  "classes": [
+    {
+      "id": 1,
+      "name": "Lớp 1",
+      "icon": "🔤",
+      "subtitle": "Bảng chữ cái và chào hỏi",
+      "gradeLevel": "beginner",
+      "lessons": [
+        {
+          "id": 101,
+          "title": "Bảng chữ cái tiếng Anh",
+          "icon": "🔤",
+          "subtitle": "Làm quen với 26 chữ cái",
+          "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ",
+          "sentences": [
+            {
+              "en": "A is for apple.",
+              "vi": "A là quả táo.",
+              "ipa": "/eɪ ɪz fɔːr ˈæp.əl/"
+            },
+            {
+              "en": "B is for ball.",
+              "vi": "B là quả bóng.",
+              "ipa": "/biː ɪz fɔːr bɔːl/"
+            },
+            {
+              "en": "C is for cat.",
+              "vi": "C là con mèo.",
+              "ipa": "/siː ɪz fɔːr kæt/"
+            },
+            {
+              "en": "D is for dog.",
+              "vi": "D là con chó.",
+              "ipa": "/diː ɪz fɔːr dɒɡ/"
+            },
+            {
+              "en": "E is for egg.",
+              "vi": "E là quả trứng.",
+              "ipa": "/iː ɪz fɔːr eɡ/"
+            },
+            {
+              "en": "F is for fish.",
+              "vi": "F là con cá.",
+              "ipa": "/ef ɪz fɔːr fɪʃ/"
+            },
+            {
+              "en": "G is for girl.",
+              "vi": "G là cô gái.",
+              "ipa": "/dʒiː ɪz fɔːr ɡɜːrl/"
+            },
+            {
+              "en": "H is for hat.",
+              "vi": "H là cái mũ.",
+              "ipa": "/eɪtʃ ɪz fɔːr hæt/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "apple",
+              "meaning": "quả táo"
+            },
+            {
+              "word": "ball",
+              "meaning": "quả bóng"
+            },
+            {
+              "word": "cat",
+              "meaning": "con mèo"
+            },
+            {
+              "word": "dog",
+              "meaning": "con chó"
+            },
+            {
+              "word": "fish",
+              "meaning": "con cá"
+            },
+            {
+              "word": "hat",
+              "meaning": "cái mũ"
+            }
+          ]
+        },
+        {
+          "id": 102,
+          "title": "Chào hỏi cơ bản",
+          "icon": "👋",
+          "subtitle": "Cách chào hỏi và giới thiệu tên",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "Hello! How are you?",
+              "vi": "Xin chào! Bạn có khỏe không?",
+              "ipa": "/həˈloʊ haʊ ɑːr juː/"
+            },
+            {
+              "en": "I am fine, thank you.",
+              "vi": "Mình khỏe, cảm ơn bạn.",
+              "ipa": "/aɪ æm faɪn θæŋk juː/"
+            },
+            {
+              "en": "What is your name?",
+              "vi": "Tên bạn là gì?",
+              "ipa": "/wɒt ɪz jɔːr neɪm/"
+            },
+            {
+              "en": "My name is Nam.",
+              "vi": "Tên mình là Nam.",
+              "ipa": "/maɪ neɪm ɪz næm/"
+            },
+            {
+              "en": "Good morning, teacher!",
+              "vi": "Chào buổi sáng, cô giáo!",
+              "ipa": "/ɡʊd ˈmɔːr.nɪŋ ˈtiː.tʃər/"
+            },
+            {
+              "en": "Goodbye! See you later.",
+              "vi": "Tạm biệt! Hẹn gặp lại.",
+              "ipa": "/ɡʊdˈbaɪ siː juː ˈleɪ.tər/"
+            },
+            {
+              "en": "Nice to meet you!",
+              "vi": "Rất vui được gặp bạn!",
+              "ipa": "/naɪs tə miːt juː/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "hello",
+              "meaning": "xin chào"
+            },
+            {
+              "word": "goodbye",
+              "meaning": "tạm biệt"
+            },
+            {
+              "word": "name",
+              "meaning": "tên"
+            },
+            {
+              "word": "teacher",
+              "meaning": "giáo viên"
+            },
+            {
+              "word": "friend",
+              "meaning": "bạn bè"
+            },
+            {
+              "word": "thank you",
+              "meaning": "cảm ơn"
+            }
+          ]
+        },
+        {
+          "id": 103,
+          "title": "Màu sắc",
+          "icon": "🎨",
+          "subtitle": "Nhận biết các màu sắc cơ bản",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "The sky is blue.",
+              "vi": "Bầu trời màu xanh.",
+              "ipa": "/ðə skaɪ ɪz bluː/"
+            },
+            {
+              "en": "The grass is green.",
+              "vi": "Cỏ màu xanh lá.",
+              "ipa": "/ðə ɡræs ɪz ɡriːn/"
+            },
+            {
+              "en": "My bag is red.",
+              "vi": "Cặp sách của tôi màu đỏ.",
+              "ipa": "/maɪ bæɡ ɪz red/"
+            },
+            {
+              "en": "The sun is yellow.",
+              "vi": "Mặt trời màu vàng.",
+              "ipa": "/ðə sʌn ɪz ˈjel.oʊ/"
+            },
+            {
+              "en": "I like pink flowers.",
+              "vi": "Tôi thích hoa màu hồng.",
+              "ipa": "/aɪ laɪk pɪŋk ˈflaʊ.ərz/"
+            },
+            {
+              "en": "This is a white cat.",
+              "vi": "Đây là một con mèo trắng.",
+              "ipa": "/ðɪs ɪz ə waɪt kæt/"
+            },
+            {
+              "en": "The pencil is black.",
+              "vi": "Cái bút chì màu đen.",
+              "ipa": "/ðə ˈpen.səl ɪz blæk/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "red",
+              "meaning": "màu đỏ"
+            },
+            {
+              "word": "blue",
+              "meaning": "màu xanh dương"
+            },
+            {
+              "word": "green",
+              "meaning": "màu xanh lá"
+            },
+            {
+              "word": "yellow",
+              "meaning": "màu vàng"
+            },
+            {
+              "word": "white",
+              "meaning": "màu trắng"
+            },
+            {
+              "word": "black",
+              "meaning": "màu đen"
+            }
+          ]
+        },
+        {
+          "id": 104,
+          "title": "Số đếm 1-10",
+          "icon": "🔢",
+          "subtitle": "Học đếm số từ 1 đến 10",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "I have one nose.",
+              "vi": "Mình có một cái mũi.",
+              "ipa": "/aɪ hæv wʌn noʊz/"
+            },
+            {
+              "en": "I have two eyes.",
+              "vi": "Mình có hai con mắt.",
+              "ipa": "/aɪ hæv tuː aɪz/"
+            },
+            {
+              "en": "I have ten fingers.",
+              "vi": "Mình có mười ngón tay.",
+              "ipa": "/aɪ hæv ten ˈfɪŋ.ɡərz/"
+            },
+            {
+              "en": "There are three books.",
+              "vi": "Có ba quyển sách.",
+              "ipa": "/ðer ɑːr θriː bʊks/"
+            },
+            {
+              "en": "I see four birds.",
+              "vi": "Mình thấy bốn con chim.",
+              "ipa": "/aɪ siː fɔːr bɜːrdz/"
+            },
+            {
+              "en": "She has five pens.",
+              "vi": "Cô ấy có năm cái bút.",
+              "ipa": "/ʃiː hæz faɪv penz/"
+            },
+            {
+              "en": "Six cats are playing.",
+              "vi": "Sáu con mèo đang chơi.",
+              "ipa": "/sɪks kæts ɑːr ˈpleɪ.ɪŋ/"
+            },
+            {
+              "en": "I am seven years old.",
+              "vi": "Mình bảy tuổi.",
+              "ipa": "/aɪ æm ˈsev.ən jɪrz oʊld/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "one",
+              "meaning": "một"
+            },
+            {
+              "word": "two",
+              "meaning": "hai"
+            },
+            {
+              "word": "three",
+              "meaning": "ba"
+            },
+            {
+              "word": "four",
+              "meaning": "bốn"
+            },
+            {
+              "word": "five",
+              "meaning": "năm"
+            },
+            {
+              "word": "ten",
+              "meaning": "mười"
+            }
+          ]
+        },
+        {
+          "id": 105,
+          "title": "Gia đình của em",
+          "icon": "👨‍👩‍👧‍👦",
+          "subtitle": "Các thành viên trong gia đình",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "This is my mother.",
+              "vi": "Đây là mẹ của mình.",
+              "ipa": "/ðɪs ɪz maɪ ˈmʌð.ər/"
+            },
+            {
+              "en": "This is my father.",
+              "vi": "Đây là bố của mình.",
+              "ipa": "/ðɪs ɪz maɪ ˈfɑː.ðər/"
+            },
+            {
+              "en": "I have a sister.",
+              "vi": "Mình có một chị gái.",
+              "ipa": "/aɪ hæv ə ˈsɪs.tər/"
+            },
+            {
+              "en": "I have a brother.",
+              "vi": "Mình có một em trai.",
+              "ipa": "/aɪ hæv ə ˈbrʌð.ər/"
+            },
+            {
+              "en": "My grandmother is kind.",
+              "vi": "Bà của mình rất hiền.",
+              "ipa": "/maɪ ˈɡrænd.mʌð.ər ɪz kaɪnd/"
+            },
+            {
+              "en": "My grandfather is old.",
+              "vi": "Ông của mình đã già.",
+              "ipa": "/maɪ ˈɡrænd.fɑː.ðər ɪz oʊld/"
+            },
+            {
+              "en": "I love my family.",
+              "vi": "Mình yêu gia đình của mình.",
+              "ipa": "/aɪ lʌv maɪ ˈfæm.ə.li/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "mother",
+              "meaning": "mẹ"
+            },
+            {
+              "word": "father",
+              "meaning": "bố"
+            },
+            {
+              "word": "sister",
+              "meaning": "chị/em gái"
+            },
+            {
+              "word": "brother",
+              "meaning": "anh/em trai"
+            },
+            {
+              "word": "grandmother",
+              "meaning": "bà"
+            },
+            {
+              "word": "grandfather",
+              "meaning": "ông"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Lớp 2",
+      "icon": "📚",
+      "subtitle": "Đồ dùng học tập và cơ thể",
+      "gradeLevel": "beginner",
+      "lessons": [
+        {
+          "id": 201,
+          "title": "Đồ dùng học tập",
+          "icon": "✏️",
+          "subtitle": "Tên các đồ dùng trong lớp học",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "I have a new pencil.",
+              "vi": "Mình có một cây bút chì mới.",
+              "ipa": "/aɪ hæv ə nuː ˈpen.səl/"
+            },
+            {
+              "en": "This is my ruler.",
+              "vi": "Đây là cái thước kẻ của mình.",
+              "ipa": "/ðɪs ɪz maɪ ˈruː.lər/"
+            },
+            {
+              "en": "Please open your book.",
+              "vi": "Làm ơn mở sách ra.",
+              "ipa": "/pliːz ˈoʊ.pən jɔːr bʊk/"
+            },
+            {
+              "en": "The eraser is on the desk.",
+              "vi": "Cục tẩy ở trên bàn.",
+              "ipa": "/ði ɪˈreɪ.sər ɪz ɒn ðə desk/"
+            },
+            {
+              "en": "I carry my bag to school.",
+              "vi": "Mình mang cặp đến trường.",
+              "ipa": "/aɪ ˈkær.i maɪ bæɡ tə skuːl/"
+            },
+            {
+              "en": "The notebook is blue.",
+              "vi": "Quyển vở màu xanh.",
+              "ipa": "/ðə ˈnoʊt.bʊk ɪz bluː/"
+            },
+            {
+              "en": "May I borrow your pen?",
+              "vi": "Mình có thể mượn bút của bạn không?",
+              "ipa": "/meɪ aɪ ˈbɒr.oʊ jɔːr pen/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "pencil",
+              "meaning": "bút chì"
+            },
+            {
+              "word": "ruler",
+              "meaning": "thước kẻ"
+            },
+            {
+              "word": "book",
+              "meaning": "sách"
+            },
+            {
+              "word": "eraser",
+              "meaning": "cục tẩy"
+            },
+            {
+              "word": "notebook",
+              "meaning": "vở"
+            },
+            {
+              "word": "school bag",
+              "meaning": "cặp sách"
+            }
+          ]
+        },
+        {
+          "id": 202,
+          "title": "Các bộ phận cơ thể",
+          "icon": "🧍",
+          "subtitle": "Nhận biết các bộ phận trên cơ thể",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "I wash my hands every day.",
+              "vi": "Mình rửa tay mỗi ngày.",
+              "ipa": "/aɪ wɒʃ maɪ hændz ˈev.ri deɪ/"
+            },
+            {
+              "en": "She has long hair.",
+              "vi": "Cô ấy có mái tóc dài.",
+              "ipa": "/ʃiː hæz lɔːŋ her/"
+            },
+            {
+              "en": "Touch your nose.",
+              "vi": "Chạm vào mũi của bạn.",
+              "ipa": "/tʌtʃ jɔːr noʊz/"
+            },
+            {
+              "en": "I can see with my eyes.",
+              "vi": "Mình có thể nhìn bằng mắt.",
+              "ipa": "/aɪ kæn siː wɪð maɪ aɪz/"
+            },
+            {
+              "en": "Open your mouth.",
+              "vi": "Mở miệng ra.",
+              "ipa": "/ˈoʊ.pən jɔːr maʊθ/"
+            },
+            {
+              "en": "I have two ears.",
+              "vi": "Mình có hai tai.",
+              "ipa": "/aɪ hæv tuː ɪrz/"
+            },
+            {
+              "en": "My feet are big.",
+              "vi": "Chân của mình to.",
+              "ipa": "/maɪ fiːt ɑːr bɪɡ/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "hand",
+              "meaning": "bàn tay"
+            },
+            {
+              "word": "hair",
+              "meaning": "tóc"
+            },
+            {
+              "word": "nose",
+              "meaning": "mũi"
+            },
+            {
+              "word": "eye",
+              "meaning": "mắt"
+            },
+            {
+              "word": "mouth",
+              "meaning": "miệng"
+            },
+            {
+              "word": "ear",
+              "meaning": "tai"
+            }
+          ]
+        },
+        {
+          "id": 203,
+          "title": "Thời tiết",
+          "icon": "☀️",
+          "subtitle": "Miêu tả thời tiết các mùa",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "It is sunny today.",
+              "vi": "Hôm nay trời nắng.",
+              "ipa": "/ɪt ɪz ˈsʌn.i təˈdeɪ/"
+            },
+            {
+              "en": "It is raining outside.",
+              "vi": "Bên ngoài đang mưa.",
+              "ipa": "/ɪt ɪz ˈreɪ.nɪŋ ˌaʊtˈsaɪd/"
+            },
+            {
+              "en": "The wind is strong.",
+              "vi": "Gió rất mạnh.",
+              "ipa": "/ðə wɪnd ɪz strɔːŋ/"
+            },
+            {
+              "en": "It is very cold today.",
+              "vi": "Hôm nay rất lạnh.",
+              "ipa": "/ɪt ɪz ˈver.i koʊld təˈdeɪ/"
+            },
+            {
+              "en": "I like hot weather.",
+              "vi": "Mình thích thời tiết nóng.",
+              "ipa": "/aɪ laɪk hɒt ˈweð.ər/"
+            },
+            {
+              "en": "The sky is cloudy.",
+              "vi": "Bầu trời nhiều mây.",
+              "ipa": "/ðə skaɪ ɪz ˈklaʊ.di/"
+            },
+            {
+              "en": "It is warm in spring.",
+              "vi": "Mùa xuân thời tiết ấm áp.",
+              "ipa": "/ɪt ɪz wɔːrm ɪn sprɪŋ/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "sunny",
+              "meaning": "nắng"
+            },
+            {
+              "word": "rainy",
+              "meaning": "mưa"
+            },
+            {
+              "word": "windy",
+              "meaning": "gió"
+            },
+            {
+              "word": "cold",
+              "meaning": "lạnh"
+            },
+            {
+              "word": "hot",
+              "meaning": "nóng"
+            },
+            {
+              "word": "cloudy",
+              "meaning": "nhiều mây"
+            }
+          ]
+        },
+        {
+          "id": 204,
+          "title": "Các ngày trong tuần",
+          "icon": "📅",
+          "subtitle": "Thứ tự các ngày từ thứ Hai đến Chủ nhật",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "Monday is the first day.",
+              "vi": "Thứ Hai là ngày đầu tuần.",
+              "ipa": "/ˈmʌn.deɪ ɪz ðə fɜːrst deɪ/"
+            },
+            {
+              "en": "We go to school on Tuesday.",
+              "vi": "Chúng mình đi học vào thứ Ba.",
+              "ipa": "/wiː ɡoʊ tə skuːl ɒn ˈtjuːz.deɪ/"
+            },
+            {
+              "en": "Wednesday is in the middle.",
+              "vi": "Thứ Tư ở giữa tuần.",
+              "ipa": "/ˈwenz.deɪ ɪz ɪn ðə ˈmɪd.əl/"
+            },
+            {
+              "en": "Thursday is my favorite day.",
+              "vi": "Thứ Năm là ngày yêu thích của mình.",
+              "ipa": "/ˈθɜːrz.deɪ ɪz maɪ ˈfeɪ.vər.ɪt deɪ/"
+            },
+            {
+              "en": "Friday is fun.",
+              "vi": "Thứ Sáu rất vui.",
+              "ipa": "/ˈfraɪ.deɪ ɪz fʌn/"
+            },
+            {
+              "en": "Saturday is for playing.",
+              "vi": "Thứ Bảy là để chơi.",
+              "ipa": "/ˈsæt.ər.deɪ ɪz fɔːr ˈpleɪ.ɪŋ/"
+            },
+            {
+              "en": "Sunday is a day to rest.",
+              "vi": "Chủ nhật là ngày nghỉ ngơi.",
+              "ipa": "/ˈsʌn.deɪ ɪz ə deɪ tə rest/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "Monday",
+              "meaning": "thứ Hai"
+            },
+            {
+              "word": "Tuesday",
+              "meaning": "thứ Ba"
+            },
+            {
+              "word": "Wednesday",
+              "meaning": "thứ Tư"
+            },
+            {
+              "word": "Thursday",
+              "meaning": "thứ Năm"
+            },
+            {
+              "word": "Friday",
+              "meaning": "thứ Sáu"
+            },
+            {
+              "word": "Sunday",
+              "meaning": "Chủ nhật"
+            }
+          ]
+        },
+        {
+          "id": 205,
+          "title": "Các con vật",
+          "icon": "🐾",
+          "subtitle": "Tên gọi các loài động vật quen thuộc",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "The dog is running fast.",
+              "vi": "Con chó đang chạy nhanh.",
+              "ipa": "/ðə dɒɡ ɪz ˈrʌn.ɪŋ fæst/"
+            },
+            {
+              "en": "The cat is sleeping.",
+              "vi": "Con mèo đang ngủ.",
+              "ipa": "/ðə kæt ɪz ˈsliː.pɪŋ/"
+            },
+            {
+              "en": "Birds can fly in the sky.",
+              "vi": "Chim có thể bay trên bầu trời.",
+              "ipa": "/bɜːrdz kæn flaɪ ɪn ðə skaɪ/"
+            },
+            {
+              "en": "Fish live in water.",
+              "vi": "Cá sống dưới nước.",
+              "ipa": "/fɪʃ lɪv ɪn ˈwɔː.tər/"
+            },
+            {
+              "en": "The rabbit is white and cute.",
+              "vi": "Con thỏ trắng và dễ thương.",
+              "ipa": "/ðə ˈræb.ɪt ɪz waɪt ænd kjuːt/"
+            },
+            {
+              "en": "I see a big elephant.",
+              "vi": "Mình thấy một con voi to.",
+              "ipa": "/aɪ siː ə bɪɡ ˈel.ɪ.fənt/"
+            },
+            {
+              "en": "Monkeys like bananas.",
+              "vi": "Khỉ thích chuối.",
+              "ipa": "/ˈmʌŋ.kiz laɪk bəˈnæn.əz/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "dog",
+              "meaning": "con chó"
+            },
+            {
+              "word": "cat",
+              "meaning": "con mèo"
+            },
+            {
+              "word": "bird",
+              "meaning": "con chim"
+            },
+            {
+              "word": "fish",
+              "meaning": "con cá"
+            },
+            {
+              "word": "rabbit",
+              "meaning": "con thỏ"
+            },
+            {
+              "word": "elephant",
+              "meaning": "con voi"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Lớp 3",
+      "icon": "🎨",
+      "subtitle": "Đồ ăn, quần áo và nhà cửa",
+      "gradeLevel": "beginner",
+      "lessons": [
+        {
+          "id": 301,
+          "title": "Đồ ăn và thức uống",
+          "icon": "🍎",
+          "subtitle": "Tên các món ăn và đồ uống hàng ngày",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "I eat rice for breakfast.",
+              "vi": "Mình ăn cơm vào bữa sáng.",
+              "ipa": "/aɪ iːt raɪs fɔːr ˈbrek.fəst/"
+            },
+            {
+              "en": "She drinks milk every morning.",
+              "vi": "Cô ấy uống sữa mỗi sáng.",
+              "ipa": "/ʃiː drɪŋks mɪlk ˈev.ri ˈmɔːr.nɪŋ/"
+            },
+            {
+              "en": "I like apples and bananas.",
+              "vi": "Mình thích táo và chuối.",
+              "ipa": "/aɪ laɪk ˈæp.əlz ænd bəˈnæn.əz/"
+            },
+            {
+              "en": "Bread is delicious.",
+              "vi": "Bánh mì rất ngon.",
+              "ipa": "/bred ɪz dɪˈlɪʃ.əs/"
+            },
+            {
+              "en": "Do you want some water?",
+              "vi": "Bạn có muốn uống chút nước không?",
+              "ipa": "/duː juː wɒnt sʌm ˈwɔː.tər/"
+            },
+            {
+              "en": "I love ice cream.",
+              "vi": "Mình thích kem.",
+              "ipa": "/aɪ lʌv aɪs kriːm/"
+            },
+            {
+              "en": "The cake is very sweet.",
+              "vi": "Cái bánh ngọt rất ngọt.",
+              "ipa": "/ðə keɪk ɪz ˈver.i swiːt/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "rice",
+              "meaning": "cơm"
+            },
+            {
+              "word": "milk",
+              "meaning": "sữa"
+            },
+            {
+              "word": "bread",
+              "meaning": "bánh mì"
+            },
+            {
+              "word": "water",
+              "meaning": "nước"
+            },
+            {
+              "word": "apple",
+              "meaning": "quả táo"
+            },
+            {
+              "word": "ice cream",
+              "meaning": "kem"
+            }
+          ]
+        },
+        {
+          "id": 302,
+          "title": "Quần áo",
+          "icon": "👕",
+          "subtitle": "Tên các loại trang phục",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "I wear a T-shirt today.",
+              "vi": "Hôm nay mình mặc áo phông.",
+              "ipa": "/aɪ wer ə ˈtiː.ʃɜːrt təˈdeɪ/"
+            },
+            {
+              "en": "She puts on a dress.",
+              "vi": "Cô ấy mặc một chiếc váy.",
+              "ipa": "/ʃiː pʊts ɒn ə dres/"
+            },
+            {
+              "en": "My shoes are new.",
+              "vi": "Giày của mình mới.",
+              "ipa": "/maɪ ʃuːz ɑːr nuː/"
+            },
+            {
+              "en": "He wears a blue hat.",
+              "vi": "Anh ấy đội mũ màu xanh.",
+              "ipa": "/hiː werz ə bluː hæt/"
+            },
+            {
+              "en": "These socks are warm.",
+              "vi": "Đôi tất này rất ấm.",
+              "ipa": "/ðiːz sɒks ɑːr wɔːrm/"
+            },
+            {
+              "en": "I need a jacket in winter.",
+              "vi": "Mình cần áo khoác vào mùa đông.",
+              "ipa": "/aɪ niːd ə ˈdʒæk.ɪt ɪn ˈwɪn.tər/"
+            },
+            {
+              "en": "Her skirt is very pretty.",
+              "vi": "Váy của cô ấy rất đẹp.",
+              "ipa": "/hɜːr skɜːrt ɪz ˈver.i ˈprɪt.i/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "T-shirt",
+              "meaning": "áo phông"
+            },
+            {
+              "word": "dress",
+              "meaning": "váy"
+            },
+            {
+              "word": "shoes",
+              "meaning": "giày"
+            },
+            {
+              "word": "hat",
+              "meaning": "mũ"
+            },
+            {
+              "word": "socks",
+              "meaning": "tất"
+            },
+            {
+              "word": "jacket",
+              "meaning": "áo khoác"
+            }
+          ]
+        },
+        {
+          "id": 303,
+          "title": "Ngôi nhà của em",
+          "icon": "🏠",
+          "subtitle": "Các phòng và đồ vật trong nhà",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "This is my house.",
+              "vi": "Đây là nhà của mình.",
+              "ipa": "/ðɪs ɪz maɪ haʊs/"
+            },
+            {
+              "en": "The living room is big.",
+              "vi": "Phòng khách rất rộng.",
+              "ipa": "/ðə ˈlɪv.ɪŋ ruːm ɪz bɪɡ/"
+            },
+            {
+              "en": "I sleep in my bedroom.",
+              "vi": "Mình ngủ trong phòng ngủ.",
+              "ipa": "/aɪ sliːp ɪn maɪ ˈbed.ruːm/"
+            },
+            {
+              "en": "We eat in the kitchen.",
+              "vi": "Chúng mình ăn trong bếp.",
+              "ipa": "/wiː iːt ɪn ðə ˈkɪtʃ.ɪn/"
+            },
+            {
+              "en": "The bathroom is clean.",
+              "vi": "Phòng tắm rất sạch.",
+              "ipa": "/ðə ˈbæθ.ruːm ɪz kliːn/"
+            },
+            {
+              "en": "There is a table in the dining room.",
+              "vi": "Có một cái bàn trong phòng ăn.",
+              "ipa": "/ðer ɪz ə ˈteɪ.bəl ɪn ðə ˈdaɪ.nɪŋ ruːm/"
+            },
+            {
+              "en": "I love my cozy home.",
+              "vi": "Mình yêu ngôi nhà ấm cúng của mình.",
+              "ipa": "/aɪ lʌv maɪ ˈkoʊ.zi hoʊm/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "house",
+              "meaning": "ngôi nhà"
+            },
+            {
+              "word": "living room",
+              "meaning": "phòng khách"
+            },
+            {
+              "word": "bedroom",
+              "meaning": "phòng ngủ"
+            },
+            {
+              "word": "kitchen",
+              "meaning": "nhà bếp"
+            },
+            {
+              "word": "bathroom",
+              "meaning": "phòng tắm"
+            },
+            {
+              "word": "table",
+              "meaning": "cái bàn"
+            }
+          ]
+        },
+        {
+          "id": 304,
+          "title": "Thời gian",
+          "icon": "⏰",
+          "subtitle": "Cách hỏi và nói giờ",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "What time is it?",
+              "vi": "Mấy giờ rồi?",
+              "ipa": "/wɒt taɪm ɪz ɪt/"
+            },
+            {
+              "en": "It is seven o'clock.",
+              "vi": "Bảy giờ rồi.",
+              "ipa": "/ɪt ɪz ˈsev.ən əˈklɒk/"
+            },
+            {
+              "en": "I wake up at six o'clock.",
+              "vi": "Mình thức dậy lúc sáu giờ.",
+              "ipa": "/aɪ weɪk ʌp æt sɪks əˈklɒk/"
+            },
+            {
+              "en": "School starts at eight.",
+              "vi": "Trường học bắt đầu lúc tám giờ.",
+              "ipa": "/skuːl stɑːrts æt eɪt/"
+            },
+            {
+              "en": "I have lunch at twelve.",
+              "vi": "Mình ăn trưa lúc mười hai giờ.",
+              "ipa": "/aɪ hæv lʌntʃ æt twelv/"
+            },
+            {
+              "en": "It is half past three.",
+              "vi": "Bây giờ là ba giờ rưỡi.",
+              "ipa": "/ɪt ɪz hæf pæst θriː/"
+            },
+            {
+              "en": "I go to bed at nine.",
+              "vi": "Mình đi ngủ lúc chín giờ.",
+              "ipa": "/aɪ ɡoʊ tə bed æt naɪn/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "time",
+              "meaning": "thời gian"
+            },
+            {
+              "word": "o'clock",
+              "meaning": "giờ đúng"
+            },
+            {
+              "word": "half past",
+              "meaning": "rưỡi"
+            },
+            {
+              "word": "morning",
+              "meaning": "buổi sáng"
+            },
+            {
+              "word": "afternoon",
+              "meaning": "buổi chiều"
+            },
+            {
+              "word": "evening",
+              "meaning": "buổi tối"
+            }
+          ]
+        },
+        {
+          "id": 305,
+          "title": "Hoạt động hàng ngày",
+          "icon": "🔄",
+          "subtitle": "Các việc làm thường ngày",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "I brush my teeth every morning.",
+              "vi": "Mình đánh răng mỗi sáng.",
+              "ipa": "/aɪ brʌʃ maɪ tiːθ ˈev.ri ˈmɔːr.nɪŋ/"
+            },
+            {
+              "en": "I get dressed after breakfast.",
+              "vi": "Mình mặc quần áo sau bữa sáng.",
+              "ipa": "/aɪ ɡet drest ˈæf.tər ˈbrek.fəst/"
+            },
+            {
+              "en": "I go to school by bus.",
+              "vi": "Mình đi học bằng xe buýt.",
+              "ipa": "/aɪ ɡoʊ tə skuːl baɪ bʌs/"
+            },
+            {
+              "en": "I do my homework in the evening.",
+              "vi": "Mình làm bài tập về nhà vào buổi tối.",
+              "ipa": "/aɪ duː maɪ ˈhoʊm.wɜːrk ɪn ðə ˈiːv.nɪŋ/"
+            },
+            {
+              "en": "I take a shower at night.",
+              "vi": "Mình tắm vào buổi tối.",
+              "ipa": "/aɪ teɪk ə ˈʃaʊ.ər æt naɪt/"
+            },
+            {
+              "en": "I read a book before bed.",
+              "vi": "Mình đọc sách trước khi ngủ.",
+              "ipa": "/aɪ riːd ə bʊk bɪˈfɔːr bed/"
+            },
+            {
+              "en": "I help my mother cook dinner.",
+              "vi": "Mình giúp mẹ nấu bữa tối.",
+              "ipa": "/aɪ help maɪ ˈmʌð.ər kʊk ˈdɪn.ər/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "brush teeth",
+              "meaning": "đánh răng"
+            },
+            {
+              "word": "get dressed",
+              "meaning": "mặc quần áo"
+            },
+            {
+              "word": "homework",
+              "meaning": "bài tập về nhà"
+            },
+            {
+              "word": "shower",
+              "meaning": "tắm vòi sen"
+            },
+            {
+              "word": "breakfast",
+              "meaning": "bữa sáng"
+            },
+            {
+              "word": "dinner",
+              "meaning": "bữa tối"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Lớp 4",
+      "icon": "🏫",
+      "subtitle": "Lớp học, sở thích và mùa",
+      "gradeLevel": "elementary",
+      "lessons": [
+        {
+          "id": 401,
+          "title": "Lớp học của em",
+          "icon": "🏫",
+          "subtitle": "Miêu tả lớp học và bạn bè",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "Our classroom is on the second floor.",
+              "vi": "Lớp học của chúng mình ở tầng hai.",
+              "ipa": "/aʊər ˈklæs.ruːm ɪz ɒn ðə ˈsek.ənd flɔːr/"
+            },
+            {
+              "en": "There are twenty desks in the room.",
+              "vi": "Có hai mươi cái bàn trong phòng.",
+              "ipa": "/ðer ɑːr ˈtwen.i desks ɪn ðə ruːm/"
+            },
+            {
+              "en": "The board is at the front.",
+              "vi": "Bảng ở phía trước.",
+              "ipa": "/ðə bɔːrd ɪz æt ðə frʌnt/"
+            },
+            {
+              "en": "Our teacher writes on the board.",
+              "vi": "Cô giáo viết lên bảng.",
+              "ipa": "/aʊər ˈtiː.tʃər raɪts ɒn ðə bɔːrd/"
+            },
+            {
+              "en": "I sit next to my friend.",
+              "vi": "Mình ngồi cạnh bạn của mình.",
+              "ipa": "/aɪ sɪt nekst tə maɪ frend/"
+            },
+            {
+              "en": "We raise our hands to speak.",
+              "vi": "Chúng mình giơ tay để phát biểu.",
+              "ipa": "/wiː reɪz aʊər hændz tə spiːk/"
+            },
+            {
+              "en": "The bell rings at four o'clock.",
+              "vi": "Chuông reo lúc bốn giờ.",
+              "ipa": "/ðə bel rɪŋz æt fɔːr əˈklɒk/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "classroom",
+              "meaning": "lớp học"
+            },
+            {
+              "word": "board",
+              "meaning": "bảng"
+            },
+            {
+              "word": "desk",
+              "meaning": "bàn học"
+            },
+            {
+              "word": "floor",
+              "meaning": "tầng"
+            },
+            {
+              "word": "bell",
+              "meaning": "chuông"
+            },
+            {
+              "word": "raise hand",
+              "meaning": "giơ tay"
+            }
+          ]
+        },
+        {
+          "id": 402,
+          "title": "Sở thích của em",
+          "icon": "🎯",
+          "subtitle": "Nói về những điều yêu thích",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "I like drawing pictures.",
+              "vi": "Mình thích vẽ tranh.",
+              "ipa": "/aɪ laɪk ˈdrɔː.ɪŋ ˈpɪk.tʃərz/"
+            },
+            {
+              "en": "She loves singing songs.",
+              "vi": "Cô ấy thích hát.",
+              "ipa": "/ʃiː lʌvz ˈsɪŋ.ɪŋ sɔːŋz/"
+            },
+            {
+              "en": "He enjoys playing football.",
+              "vi": "Anh ấy thích chơi bóng đá.",
+              "ipa": "/hiː ɪnˈdʒɔɪz ˈpleɪ.ɪŋ ˈfʊt.bɔːl/"
+            },
+            {
+              "en": "My hobby is reading books.",
+              "vi": "Sở thích của mình là đọc sách.",
+              "ipa": "/maɪ ˈhɒb.i ɪz ˈriːd.ɪŋ bʊks/"
+            },
+            {
+              "en": "I can swim very well.",
+              "vi": "Mình có thể bơi rất giỏi.",
+              "ipa": "/aɪ kæn swɪm ˈver.i wel/"
+            },
+            {
+              "en": "Do you like dancing?",
+              "vi": "Bạn có thích nhảy không?",
+              "ipa": "/duː juː laɪk ˈdæn.sɪŋ/"
+            },
+            {
+              "en": "We love playing chess together.",
+              "vi": "Chúng mình thích chơi cờ cùng nhau.",
+              "ipa": "/wiː lʌv ˈpleɪ.ɪŋ tʃes təˈɡeð.ər/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "drawing",
+              "meaning": "vẽ"
+            },
+            {
+              "word": "singing",
+              "meaning": "hát"
+            },
+            {
+              "word": "football",
+              "meaning": "bóng đá"
+            },
+            {
+              "word": "hobby",
+              "meaning": "sở thích"
+            },
+            {
+              "word": "swimming",
+              "meaning": "bơi lội"
+            },
+            {
+              "word": "chess",
+              "meaning": "cờ vua"
+            }
+          ]
+        },
+        {
+          "id": 403,
+          "title": "Các mùa trong năm",
+          "icon": "🌸",
+          "subtitle": "Miêu tả thời tiết bốn mùa",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "There are four seasons in a year.",
+              "vi": "Có bốn mùa trong một năm.",
+              "ipa": "/ðer ɑːr fɔːr ˈsiː.zənz ɪn ə jɪr/"
+            },
+            {
+              "en": "Spring is warm and beautiful.",
+              "vi": "Mùa xuân ấm áp và tươi đẹp.",
+              "ipa": "/sprɪŋ ɪz wɔːrm ænd ˈbjuː.tɪ.fəl/"
+            },
+            {
+              "en": "Summer is very hot.",
+              "vi": "Mùa hè rất nóng.",
+              "ipa": "/ˈsʌm.ər ɪz ˈver.i hɒt/"
+            },
+            {
+              "en": "Leaves fall in autumn.",
+              "vi": "Lá rụng vào mùa thu.",
+              "ipa": "/liːvz fɔːl ɪn ˈɔː.təm/"
+            },
+            {
+              "en": "Winter is cold and snowy.",
+              "vi": "Mùa đông lạnh và có tuyết.",
+              "ipa": "/ˈwɪn.tər ɪz koʊld ænd ˈsnoʊ.i/"
+            },
+            {
+              "en": "I go swimming in summer.",
+              "vi": "Mình đi bơi vào mùa hè.",
+              "ipa": "/aɪ ɡoʊ ˈswɪm.ɪŋ ɪn ˈsʌm.ər/"
+            },
+            {
+              "en": "We make snowmen in winter.",
+              "vi": "Chúng mình làm người tuyết vào mùa đông.",
+              "ipa": "/wiː meɪk ˈsnoʊ.men ɪn ˈwɪn.tər/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "spring",
+              "meaning": "mùa xuân"
+            },
+            {
+              "word": "summer",
+              "meaning": "mùa hè"
+            },
+            {
+              "word": "autumn",
+              "meaning": "mùa thu"
+            },
+            {
+              "word": "winter",
+              "meaning": "mùa đông"
+            },
+            {
+              "word": "season",
+              "meaning": "mùa"
+            },
+            {
+              "word": "snow",
+              "meaning": "tuyết"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Lớp 5",
+      "icon": "🌟",
+      "subtitle": "Nghề nghiệp, địa điểm và thể thao",
+      "gradeLevel": "elementary",
+      "lessons": [
+        {
+          "id": 501,
+          "title": "Nghề nghiệp",
+          "icon": "👨‍⚕️",
+          "subtitle": "Tên các nghề nghiệp quen thuộc",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "My father is a doctor.",
+              "vi": "Bố của mình là bác sĩ.",
+              "ipa": "/maɪ ˈfɑː.ðər ɪz ə ˈdɒk.tər/"
+            },
+            {
+              "en": "She wants to be a teacher.",
+              "vi": "Cô ấy muốn trở thành giáo viên.",
+              "ipa": "/ʃiː wɒnts tə biː ə ˈtiː.tʃər/"
+            },
+            {
+              "en": "He is a firefighter.",
+              "vi": "Anh ấy là lính cứu hỏa.",
+              "ipa": "/hiː ɪz ə ˈfaɪər.faɪ.tər/"
+            },
+            {
+              "en": "My mother is a nurse.",
+              "vi": "Mẹ của mình là y tá.",
+              "ipa": "/maɪ ˈmʌð.ər ɪz ə nɜːrs/"
+            },
+            {
+              "en": "The farmer works on the farm.",
+              "vi": "Người nông dân làm việc ở trang trại.",
+              "ipa": "/ðə ˈfɑːr.mər wɜːrks ɒn ðə fɑːrm/"
+            },
+            {
+              "en": "A pilot flies airplanes.",
+              "vi": "Phi công lái máy bay.",
+              "ipa": "/ə ˈpaɪ.lət flaɪz ˈer.pleɪnz/"
+            },
+            {
+              "en": "I want to be a scientist.",
+              "vi": "Mình muốn trở thành nhà khoa học.",
+              "ipa": "/aɪ wɒnt tə biː ə ˈsaɪ.ən.tɪst/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "doctor",
+              "meaning": "bác sĩ"
+            },
+            {
+              "word": "teacher",
+              "meaning": "giáo viên"
+            },
+            {
+              "word": "firefighter",
+              "meaning": "lính cứu hỏa"
+            },
+            {
+              "word": "nurse",
+              "meaning": "y tá"
+            },
+            {
+              "word": "farmer",
+              "meaning": "nông dân"
+            },
+            {
+              "word": "pilot",
+              "meaning": "phi công"
+            }
+          ]
+        },
+        {
+          "id": 502,
+          "title": "Địa điểm trong thành phố",
+          "icon": "🏙️",
+          "subtitle": "Các nơi công cộng trong thị trấn",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "The hospital is on Main Street.",
+              "vi": "Bệnh viện ở trên đường chính.",
+              "ipa": "/ðə ˈhɒs.pɪ.təl ɪz ɒn meɪn striːt/"
+            },
+            {
+              "en": "There is a park near my house.",
+              "vi": "Có một công viên gần nhà mình.",
+              "ipa": "/ðer ɪz ə pɑːrk nɪr maɪ haʊs/"
+            },
+            {
+              "en": "We buy food at the supermarket.",
+              "vi": "Chúng mình mua đồ ăn ở siêu thị.",
+              "ipa": "/wiː baɪ fuːd æt ðə ˈsuː.pər.mɑːr.kɪt/"
+            },
+            {
+              "en": "The library is very quiet.",
+              "vi": "Thư viện rất yên tĩnh.",
+              "ipa": "/ðə ˈlaɪ.brer.i ɪz ˈver.i ˈkwaɪ.ət/"
+            },
+            {
+              "en": "Children play in the playground.",
+              "vi": "Trẻ em chơi ở sân chơi.",
+              "ipa": "/ˈtʃɪl.drən pleɪ ɪn ðə ˈpleɪ.ɡraʊnd/"
+            },
+            {
+              "en": "The post office is next to the bank.",
+              "vi": "Bưu điện ở cạnh ngân hàng.",
+              "ipa": "/ðə poʊst ˈɒf.ɪs ɪz nekst tə ðə bæŋk/"
+            },
+            {
+              "en": "We go to the cinema on Saturday.",
+              "vi": "Chúng mình đi rạp chiếu phim vào thứ Bảy.",
+              "ipa": "/wiː ɡoʊ tə ðə ˈsɪn.ə.mə ɒn ˈsæt.ər.deɪ/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "hospital",
+              "meaning": "bệnh viện"
+            },
+            {
+              "word": "park",
+              "meaning": "công viên"
+            },
+            {
+              "word": "supermarket",
+              "meaning": "siêu thị"
+            },
+            {
+              "word": "library",
+              "meaning": "thư viện"
+            },
+            {
+              "word": "playground",
+              "meaning": "sân chơi"
+            },
+            {
+              "word": "cinema",
+              "meaning": "rạp chiếu phim"
+            }
+          ]
+        },
+        {
+          "id": 503,
+          "title": "Thể thao",
+          "icon": "⚽",
+          "subtitle": "Các môn thể thao phổ biến",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "I play football every Sunday.",
+              "vi": "Mình chơi bóng đá mỗi Chủ nhật.",
+              "ipa": "/aɪ pleɪ ˈfʊt.bɔːl ˈev.ri ˈsʌn.deɪ/"
+            },
+            {
+              "en": "She can ride a bike.",
+              "vi": "Cô ấy có thể đi xe đạp.",
+              "ipa": "/ʃiː kæn raɪd ə baɪk/"
+            },
+            {
+              "en": "He is good at basketball.",
+              "vi": "Anh ấy chơi bóng rổ giỏi.",
+              "ipa": "/hiː ɪz ɡʊd æt ˈbæs.kɪt.bɔːl/"
+            },
+            {
+              "en": "I like swimming in the pool.",
+              "vi": "Mình thích bơi ở bể bơi.",
+              "ipa": "/aɪ laɪk ˈswɪm.ɪŋ ɪn ðə puːl/"
+            },
+            {
+              "en": "Tennis is an interesting sport.",
+              "vi": "Quần vợt là một môn thể thao thú vị.",
+              "ipa": "/ˈten.ɪs ɪz ən ˈɪn.trə.stɪŋ spɔːrt/"
+            },
+            {
+              "en": "We run fast in the race.",
+              "vi": "Chúng mình chạy nhanh trong cuộc đua.",
+              "ipa": "/wiː rʌn fæst ɪn ðə reɪs/"
+            },
+            {
+              "en": "Badminton is fun to play.",
+              "vi": "Cầu lông chơi rất vui.",
+              "ipa": "/ˈbæd.mɪn.tən ɪz fʌn tə pleɪ/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "football",
+              "meaning": "bóng đá"
+            },
+            {
+              "word": "bike",
+              "meaning": "xe đạp"
+            },
+            {
+              "word": "basketball",
+              "meaning": "bóng rổ"
+            },
+            {
+              "word": "swimming",
+              "meaning": "bơi lội"
+            },
+            {
+              "word": "tennis",
+              "meaning": "quần vợt"
+            },
+            {
+              "word": "badminton",
+              "meaning": "cầu lông"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Lớp 6",
+      "icon": "📝",
+      "subtitle": "Trường học, thời gian rảnh và ngày lễ",
+      "gradeLevel": "middle",
+      "lessons": [
+        {
+          "id": 601,
+          "title": "Trường học của em",
+          "icon": "🏫",
+          "subtitle": "Miêu tả trường học và các môn học",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "My school is big and beautiful.",
+              "vi": "Trường của mình rộng và đẹp.",
+              "ipa": "/maɪ skuːl ɪz bɪɡ ænd ˈbjuː.tɪ.fəl/"
+            },
+            {
+              "en": "We study many subjects at school.",
+              "vi": "Chúng mình học nhiều môn ở trường.",
+              "ipa": "/wiː ˈstʌd.i ˈmen.i ˈsʌb.dʒekts æt skuːl/"
+            },
+            {
+              "en": "I like English and Math.",
+              "vi": "Mình thích tiếng Anh và Toán.",
+              "ipa": "/aɪ laɪk ˈɪŋ.ɡlɪʃ ænd mæθ/"
+            },
+            {
+              "en": "The library has many books.",
+              "vi": "Thư viện có nhiều sách.",
+              "ipa": "/ðə ˈlaɪ.brer.i hæz ˈmen.i bʊks/"
+            },
+            {
+              "en": "We have science class on Friday.",
+              "vi": "Chúng mình có tiết khoa học vào thứ Sáu.",
+              "ipa": "/wiː hæv ˈsaɪ.əns klæs ɒn ˈfraɪ.deɪ/"
+            },
+            {
+              "en": "Our school has a big playground.",
+              "vi": "Trường mình có một sân chơi rộng.",
+              "ipa": "/aʊər skuːl hæz ə bɪɡ ˈpleɪ.ɡraʊnd/"
+            },
+            {
+              "en": "I go to school from Monday to Friday.",
+              "vi": "Mình đi học từ thứ Hai đến thứ Sáu.",
+              "ipa": "/aɪ ɡoʊ tə skuːl frʌm ˈmʌn.deɪ tə ˈfraɪ.deɪ/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "subject",
+              "meaning": "môn học"
+            },
+            {
+              "word": "English",
+              "meaning": "tiếng Anh"
+            },
+            {
+              "word": "Math",
+              "meaning": "Toán"
+            },
+            {
+              "word": "science",
+              "meaning": "khoa học"
+            },
+            {
+              "word": "library",
+              "meaning": "thư viện"
+            },
+            {
+              "word": "playground",
+              "meaning": "sân chơi"
+            }
+          ]
+        },
+        {
+          "id": 602,
+          "title": "Thời gian rảnh rỗi",
+          "icon": "🎮",
+          "subtitle": "Các hoạt động giải trí",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "In my free time, I read books.",
+              "vi": "Lúc rảnh rỗi, mình đọc sách.",
+              "ipa": "/ɪn maɪ friː taɪm aɪ riːd bʊks/"
+            },
+            {
+              "en": "I like watching cartoons.",
+              "vi": "Mình thích xem hoạt hình.",
+              "ipa": "/aɪ laɪk ˈwɒtʃ.ɪŋ kɑːrˈtuːnz/"
+            },
+            {
+              "en": "She plays the piano very well.",
+              "vi": "Cô ấy chơi piano rất giỏi.",
+              "ipa": "/ʃiː pleɪz ðə piˈæn.oʊ ˈver.i wel/"
+            },
+            {
+              "en": "We go to the park on weekends.",
+              "vi": "Chúng mình đi công viên vào cuối tuần.",
+              "ipa": "/wiː ɡoʊ tə ðə pɑːrk ɒn ˈwiːk.endz/"
+            },
+            {
+              "en": "I listen to music every day.",
+              "vi": "Mình nghe nhạc mỗi ngày.",
+              "ipa": "/aɪ ˈlɪs.ən tə ˈmjuː.zɪk ˈev.ri deɪ/"
+            },
+            {
+              "en": "He collects stamps as a hobby.",
+              "vi": "Anh ấy sưu tập tem như một sở thích.",
+              "ipa": "/hiː kəˈlekts stæmps æz ə ˈhɒb.i/"
+            },
+            {
+              "en": "We enjoy playing board games together.",
+              "vi": "Chúng mình thích chơi trò chơi bàn cùng nhau.",
+              "ipa": "/wiː ɪnˈdʒɔɪ ˈpleɪ.ɪŋ bɔːrd ɡeɪmz təˈɡeð.ər/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "free time",
+              "meaning": "thời gian rảnh"
+            },
+            {
+              "word": "cartoon",
+              "meaning": "phim hoạt hình"
+            },
+            {
+              "word": "piano",
+              "meaning": "đàn piano"
+            },
+            {
+              "word": "music",
+              "meaning": "âm nhạc"
+            },
+            {
+              "word": "stamp",
+              "meaning": "con tem"
+            },
+            {
+              "word": "board game",
+              "meaning": "trò chơi bàn"
+            }
+          ]
+        },
+        {
+          "id": 603,
+          "title": "Ngày lễ và lễ hội",
+          "icon": "🎉",
+          "subtitle": "Các ngày lễ quan trọng trong năm",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "Tet is the most important holiday in Vietnam.",
+              "vi": "Tết là ngày lễ quan trọng nhất ở Việt Nam.",
+              "ipa": "/tet ɪz ðə moʊst ɪmˈpɔːr.tənt ˈhɒl.ɪ.deɪ ɪn viˈet.nɑːm/"
+            },
+            {
+              "en": "We celebrate Christmas on December 25th.",
+              "vi": "Chúng mình đón Giáng sinh vào ngày 25 tháng 12.",
+              "ipa": "/wiː ˈsel.ə.breɪt ˈkrɪs.məs ɒn dɪˈsem.bər ðə ˈtwɛn.ti.fɪfθ/"
+            },
+            {
+              "en": "Children receive lucky money at Tet.",
+              "vi": "Trẻ em nhận tiền lì xì vào dịp Tết.",
+              "ipa": "/ˈtʃɪl.drən rɪˈsiːv ˈlʌk.i ˈmʌn.i æt tet/"
+            },
+            {
+              "en": "We have a one-week break for Tet.",
+              "vi": "Chúng mình được nghỉ Tết một tuần.",
+              "ipa": "/wiː hæv ə wʌn wiːk breɪk fɔːr tet/"
+            },
+            {
+              "en": "People decorate houses with flowers.",
+              "vi": "Mọi người trang trí nhà bằng hoa.",
+              "ipa": "/ˈpiː.pəl ˈdek.ə.reɪt ˈhaʊ.zɪz wɪð ˈflaʊ.ərz/"
+            },
+            {
+              "en": "I love the Mid-Autumn Festival.",
+              "vi": "Mình yêu Tết Trung thu.",
+              "ipa": "/aɪ lʌv ðə mɪd ˈɔː.təm ˈfes.tɪ.vəl/"
+            },
+            {
+              "en": "We eat mooncakes during the festival.",
+              "vi": "Chúng mình ăn bánh trung thu trong dịp lễ.",
+              "ipa": "/wiː iːt ˈmuːn.keɪks ˈdʊr.ɪŋ ðə ˈfes.tɪ.vəl/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "Tet",
+              "meaning": "Tết Nguyên Đán"
+            },
+            {
+              "word": "Christmas",
+              "meaning": "Giáng sinh"
+            },
+            {
+              "word": "lucky money",
+              "meaning": "tiền lì xì"
+            },
+            {
+              "word": "holiday",
+              "meaning": "ngày lễ"
+            },
+            {
+              "word": "Mid-Autumn Festival",
+              "meaning": "Tết Trung thu"
+            },
+            {
+              "word": "mooncake",
+              "meaning": "bánh trung thu"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Lớp 7",
+      "icon": "🌍",
+      "subtitle": "Khu phố và sức khỏe",
+      "gradeLevel": "middle",
+      "lessons": [
+        {
+          "id": 701,
+          "title": "Khu phố của em",
+          "icon": "🏘️",
+          "subtitle": "Miêu tả hàng xóm và khu vực sống",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "I live in a quiet neighborhood.",
+              "vi": "Mình sống trong một khu phố yên tĩnh.",
+              "ipa": "/aɪ lɪv ɪn ə ˈkwaɪ.ət ˈneɪ.bər.hʊd/"
+            },
+            {
+              "en": "There is a market near my house.",
+              "vi": "Có một cái chợ gần nhà mình.",
+              "ipa": "/ðer ɪz ə ˈmɑːr.kɪt nɪr maɪ haʊs/"
+            },
+            {
+              "en": "My neighbors are very friendly.",
+              "vi": "Hàng xóm của mình rất thân thiện.",
+              "ipa": "/maɪ ˈneɪ.bərz ɑːr ˈver.i ˈfrend.li/"
+            },
+            {
+              "en": "The streets are clean and wide.",
+              "vi": "Đường phố sạch và rộng.",
+              "ipa": "/ðə striːts ɑːr kliːn ænd waɪd/"
+            },
+            {
+              "en": "We have a community center nearby.",
+              "vi": "Chúng mình có một trung tâm cộng đồng gần đây.",
+              "ipa": "/wiː hæv ə kəˈmjuː.nɪ.ti ˈsen.tər ˈnɪr.baɪ/"
+            },
+            {
+              "en": "I walk to the bus stop every morning.",
+              "vi": "Mình đi bộ đến trạm xe buýt mỗi sáng.",
+              "ipa": "/aɪ wɔːk tə ðə bʌs stɒp ˈev.ri ˈmɔːr.nɪŋ/"
+            },
+            {
+              "en": "There are many trees along the street.",
+              "vi": "Có nhiều cây dọc theo con đường.",
+              "ipa": "/ðer ɑːr ˈmen.i triːz əˈlɔːŋ ðə striːt/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "neighborhood",
+              "meaning": "khu phố"
+            },
+            {
+              "word": "market",
+              "meaning": "chợ"
+            },
+            {
+              "word": "neighbor",
+              "meaning": "hàng xóm"
+            },
+            {
+              "word": "street",
+              "meaning": "đường phố"
+            },
+            {
+              "word": "bus stop",
+              "meaning": "trạm xe buýt"
+            },
+            {
+              "word": "community center",
+              "meaning": "trung tâm cộng đồng"
+            }
+          ]
+        },
+        {
+          "id": 702,
+          "title": "Đồ ăn và sức khỏe",
+          "icon": "🥗",
+          "subtitle": "Thói quen ăn uống lành mạnh",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "Eating vegetables is good for health.",
+              "vi": "Ăn rau tốt cho sức khỏe.",
+              "ipa": "/ˈiːt.ɪŋ ˈvedʒ.tə.bəlz ɪz ɡʊd fɔːr helθ/"
+            },
+            {
+              "en": "You should drink eight glasses of water a day.",
+              "vi": "Bạn nên uống tám cốc nước mỗi ngày.",
+              "ipa": "/juː ʃʊd drɪŋk eɪt ˈɡlæs.ɪz əv ˈwɔː.tər ə deɪ/"
+            },
+            {
+              "en": "Fast food is not healthy.",
+              "vi": "Đồ ăn nhanh không tốt cho sức khỏe.",
+              "ipa": "/fæst fuːd ɪz nɒt ˈhel.θi/"
+            },
+            {
+              "en": "I eat fruit for dessert.",
+              "vi": "Mình ăn trái cây làm món tráng miệng.",
+              "ipa": "/aɪ iːt fruːt fɔːr dɪˈzɜːrt/"
+            },
+            {
+              "en": "Exercise helps you stay fit.",
+              "vi": "Tập thể dục giúp bạn giữ dáng.",
+              "ipa": "/ˈek.sər.saɪz helps juː steɪ fɪt/"
+            },
+            {
+              "en": "Too much sugar is bad for your teeth.",
+              "vi": "Quá nhiều đường có hại cho răng.",
+              "ipa": "/tuː mʌtʃ ˈʃʊɡ.ər ɪz bæd fɔːr jɔːr tiːθ/"
+            },
+            {
+              "en": "A balanced diet gives you energy.",
+              "vi": "Một chế độ ăn cân bằng cung cấp năng lượng.",
+              "ipa": "/ə ˈbæl.ənst ˈdaɪ.ət ɡɪvz juː ˈen.ər.dʒi/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "vegetable",
+              "meaning": "rau"
+            },
+            {
+              "word": "healthy",
+              "meaning": "tốt cho sức khỏe"
+            },
+            {
+              "word": "fast food",
+              "meaning": "đồ ăn nhanh"
+            },
+            {
+              "word": "exercise",
+              "meaning": "tập thể dục"
+            },
+            {
+              "word": "sugar",
+              "meaning": "đường"
+            },
+            {
+              "word": "balanced diet",
+              "meaning": "chế độ ăn cân bằng"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Lớp 8",
+      "icon": "🎯",
+      "subtitle": "Du lịch và giải trí",
+      "gradeLevel": "middle",
+      "lessons": [
+        {
+          "id": 801,
+          "title": "Du lịch",
+          "icon": "✈️",
+          "subtitle": "Nói về các chuyến đi và phương tiện",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "I went to Da Nang last summer.",
+              "vi": "Mình đã đi Đà Nẵng vào mùa hè năm ngoái.",
+              "ipa": "/aɪ went tə dɑː næŋ læst ˈsʌm.ər/"
+            },
+            {
+              "en": "We traveled by train to Hanoi.",
+              "vi": "Chúng mình đi tàu hỏa đến Hà Nội.",
+              "ipa": "/wiː ˈtræv.əld baɪ treɪn tə hɑːˈnɔɪ/"
+            },
+            {
+              "en": "The beach was beautiful and clean.",
+              "vi": "Bãi biển rất đẹp và sạch.",
+              "ipa": "/ðə biːtʃ wɒz ˈbjuː.tɪ.fəl ænd kliːn/"
+            },
+            {
+              "en": "I bought souvenirs for my family.",
+              "vi": "Mình đã mua quà lưu niệm cho gia đình.",
+              "ipa": "/aɪ bɔːt ˌsuː.vəˈnɪrz fɔːr maɪ ˈfæm.ə.li/"
+            },
+            {
+              "en": "We stayed at a hotel near the beach.",
+              "vi": "Chúng mình ở khách sạn gần bãi biển.",
+              "ipa": "/wiː steɪd æt ə hoʊˈtel nɪr ðə biːtʃ/"
+            },
+            {
+              "en": "The food at the local restaurant was amazing.",
+              "vi": "Đồ ăn ở nhà hàng địa phương rất tuyệt.",
+              "ipa": "/ðə fuːd æt ðə ˈloʊ.kəl ˈres.tər.ɒnt wɒz əˈmeɪ.zɪŋ/"
+            },
+            {
+              "en": "I want to visit Ha Long Bay one day.",
+              "vi": "Mình muốn thăm Vịnh Hạ Long một ngày nào đó.",
+              "ipa": "/aɪ wɒnt tə ˈvɪz.ɪt hɑː lɔːŋ beɪ wʌn deɪ/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "travel",
+              "meaning": "du lịch"
+            },
+            {
+              "word": "train",
+              "meaning": "tàu hỏa"
+            },
+            {
+              "word": "beach",
+              "meaning": "bãi biển"
+            },
+            {
+              "word": "souvenir",
+              "meaning": "quà lưu niệm"
+            },
+            {
+              "word": "hotel",
+              "meaning": "khách sạn"
+            },
+            {
+              "word": "restaurant",
+              "meaning": "nhà hàng"
+            }
+          ]
+        },
+        {
+          "id": 802,
+          "title": "Giải trí",
+          "icon": "🎬",
+          "subtitle": "Các hình thức giải trí phổ biến",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "I enjoy watching movies on weekends.",
+              "vi": "Mình thích xem phim vào cuối tuần.",
+              "ipa": "/aɪ ɪnˈdʒɔɪ ˈwɒtʃ.ɪŋ ˈmuː.viz ɒn ˈwiːk.endz/"
+            },
+            {
+              "en": "My favorite movie is about adventure.",
+              "vi": "Bộ phim yêu thích của mình nói về phiêu lưu.",
+              "ipa": "/maɪ ˈfeɪ.vər.ɪt ˈmuː.vi ɪz əˈbaʊt ədˈven.tʃər/"
+            },
+            {
+              "en": "We went to the concert last night.",
+              "vi": "Chúng mình đã đi xem hòa nhạc tối qua.",
+              "ipa": "/wiː went tə ðə ˈkɒn.sɜːrt læst naɪt/"
+            },
+            {
+              "en": "Reading novels is a great way to relax.",
+              "vi": "Đọc tiểu thuyết là một cách thư giãn tuyệt vời.",
+              "ipa": "/ˈriːd.ɪŋ ˈnɒv.əlz ɪz ə ɡreɪt weɪ tə rɪˈlæks/"
+            },
+            {
+              "en": "I like playing video games with my friends.",
+              "vi": "Mình thích chơi trò chơi điện tử với bạn bè.",
+              "ipa": "/aɪ laɪk ˈpleɪ.ɪŋ ˈvɪd.i.oʊ ɡeɪmz wɪð maɪ frendz/"
+            },
+            {
+              "en": "She enjoys taking photographs.",
+              "vi": "Cô ấy thích chụp ảnh.",
+              "ipa": "/ʃiː ɪnˈdʒɔɪz ˈteɪ.kɪŋ ˈfoʊ.tə.ɡræfs/"
+            },
+            {
+              "en": "We had a picnic in the countryside.",
+              "vi": "Chúng mình đã đi dã ngoại ở vùng quê.",
+              "ipa": "/wiː hæd ə ˈpɪk.nɪk ɪn ðə ˈkʌn.tri.saɪd/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "movie",
+              "meaning": "phim"
+            },
+            {
+              "word": "adventure",
+              "meaning": "phiêu lưu"
+            },
+            {
+              "word": "concert",
+              "meaning": "buổi hòa nhạc"
+            },
+            {
+              "word": "novel",
+              "meaning": "tiểu thuyết"
+            },
+            {
+              "word": "video game",
+              "meaning": "trò chơi điện tử"
+            },
+            {
+              "word": "picnic",
+              "meaning": "dã ngoại"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Lớp 9",
+      "icon": "🚀",
+      "subtitle": "Môi trường và tương lai",
+      "gradeLevel": "middle",
+      "lessons": [
+        {
+          "id": 901,
+          "title": "Bảo vệ môi trường",
+          "icon": "🌱",
+          "subtitle": "Các vấn đề môi trường và cách bảo vệ",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "We should reduce plastic waste.",
+              "vi": "Chúng ta nên giảm rác thải nhựa.",
+              "ipa": "/wiː ʃʊd rɪˈdjuːs ˈplæs.tɪk weɪst/"
+            },
+            {
+              "en": "Recycling helps protect the environment.",
+              "vi": "Tái chế giúp bảo vệ môi trường.",
+              "ipa": "/riːˈsaɪ.kəlɪŋ helps prəˈtekt ði ɪnˈvaɪ.rən.mənt/"
+            },
+            {
+              "en": "Trees give us clean air.",
+              "vi": "Cây xanh cho chúng ta không khí sạch.",
+              "ipa": "/triːz ɡɪv ʌs kliːn er/"
+            },
+            {
+              "en": "We should turn off lights to save energy.",
+              "vi": "Chúng ta nên tắt đèn để tiết kiệm năng lượng.",
+              "ipa": "/wiː ʃʊd tɜːrn ɒf laɪts tə seɪv ˈen.ər.dʒi/"
+            },
+            {
+              "en": "Pollution is harmful to our health.",
+              "vi": "Ô nhiễm có hại cho sức khỏe của chúng ta.",
+              "ipa": "/pəˈluː.ʃən ɪz ˈhɑːrm.fəl tə aʊər helθ/"
+            },
+            {
+              "en": "We can plant more trees in our city.",
+              "vi": "Chúng ta có thể trồng thêm cây trong thành phố.",
+              "ipa": "/wiː kæn plænt mɔːr triːz ɪn aʊər ˈsɪt.i/"
+            },
+            {
+              "en": "Using public transport reduces pollution.",
+              "vi": "Sử dụng phương tiện công cộng giảm ô nhiễm.",
+              "ipa": "/ˈjuː.zɪŋ ˈpʌb.lɪk ˈtræns.pɔːrt rɪˈdjuː.sɪz pəˈluː.ʃən/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "plastic waste",
+              "meaning": "rác thải nhựa"
+            },
+            {
+              "word": "recycling",
+              "meaning": "tái chế"
+            },
+            {
+              "word": "environment",
+              "meaning": "môi trường"
+            },
+            {
+              "word": "energy",
+              "meaning": "năng lượng"
+            },
+            {
+              "word": "pollution",
+              "meaning": "ô nhiễm"
+            },
+            {
+              "word": "public transport",
+              "meaning": "phương tiện công cộng"
+            }
+          ]
+        },
+        {
+          "id": 902,
+          "title": "Kế hoạch tương lai",
+          "icon": "🌟",
+          "subtitle": "Nói về dự định và ước mơ",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "I want to become a doctor in the future.",
+              "vi": "Mình muốn trở thành bác sĩ trong tương lai.",
+              "ipa": "/aɪ wɒnt tə bɪˈkʌm ə ˈdɒk.tər ɪn ðə ˈfjuː.tʃər/"
+            },
+            {
+              "en": "She is going to study abroad.",
+              "vi": "Cô ấy sẽ đi du học.",
+              "ipa": "/ʃiː ɪz ˈɡoʊ.ɪŋ tə ˈstʌd.i əˈbrɔːd/"
+            },
+            {
+              "en": "I plan to attend university in Ho Chi Minh City.",
+              "vi": "Mình dự định học đại học ở Thành phố Hồ Chí Minh.",
+              "ipa": "/aɪ plæn tə əˈtend ˌjuː.nɪˈvɜːr.sə.ti ɪn hoʊ tʃiː mɪn ˈsɪt.i/"
+            },
+            {
+              "en": "He hopes to travel around the world.",
+              "vi": "Anh ấy hy vọng được đi du lịch vòng quanh thế giới.",
+              "ipa": "/hiː hoʊps tə ˈtræv.əl əˈraʊnd ðə wɜːrld/"
+            },
+            {
+              "en": "I will work hard to achieve my goals.",
+              "vi": "Mình sẽ làm việc chăm chỉ để đạt được mục tiêu.",
+              "ipa": "/aɪ wɪl wɜːrk hɑːrd tə əˈtʃiːv maɪ ɡoʊlz/"
+            },
+            {
+              "en": "My dream is to become a successful engineer.",
+              "vi": "Ước mơ của mình là trở thành một kỹ sư thành công.",
+              "ipa": "/maɪ driːm ɪz tə bɪˈkʌm ə səkˈses.fəl ˌen.dʒɪˈnɪr/"
+            },
+            {
+              "en": "I believe I can make a difference.",
+              "vi": "Mình tin mình có thể tạo ra sự khác biệt.",
+              "ipa": "/aɪ bɪˈliːv aɪ kæn meɪk ə ˈdɪf.ər.əns/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "future",
+              "meaning": "tương lai"
+            },
+            {
+              "word": "study abroad",
+              "meaning": "du học"
+            },
+            {
+              "word": "university",
+              "meaning": "đại học"
+            },
+            {
+              "word": "goal",
+              "meaning": "mục tiêu"
+            },
+            {
+              "word": "dream",
+              "meaning": "ước mơ"
+            },
+            {
+              "word": "engineer",
+              "meaning": "kỹ sư"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Lớp 10",
+      "icon": "💡",
+      "subtitle": "Các vấn đề toàn cầu",
+      "gradeLevel": "high",
+      "lessons": [
+        {
+          "id": 1001,
+          "title": "Các vấn đề toàn cầu",
+          "icon": "🌐",
+          "subtitle": "Thảo luận về những thách thức chung của thế giới",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "Climate change is a serious global issue.",
+              "vi": "Biến đổi khí hậu là một vấn đề toàn cầu nghiêm trọng.",
+              "ipa": "/ˈklaɪ.mət tʃeɪndʒ ɪz ə ˈsɪr.i.əs ˈɡloʊ.bəl ˈɪʃ.uː/"
+            },
+            {
+              "en": "Many people around the world face poverty.",
+              "vi": "Nhiều người trên thế giới phải đối mặt với đói nghèo.",
+              "ipa": "/ˈmen.i ˈpiː.pəl əˈraʊnd ðə wɜːrld feɪs ˈpɒv.ər.ti/"
+            },
+            {
+              "en": "Education should be accessible to everyone.",
+              "vi": "Giáo dục nên được tiếp cận cho tất cả mọi người.",
+              "ipa": "/ˌedʒ.uˈkeɪ.ʃən ʃʊd biː əkˈses.ə.bəl tə ˈev.ri.wʌn/"
+            },
+            {
+              "en": "Technology is changing the way we live.",
+              "vi": "Công nghệ đang thay đổi cách chúng ta sống.",
+              "ipa": "/tekˈnɒl.ə.dʒi ɪz ˈtʃeɪn.dʒɪŋ ðə weɪ wiː lɪv/"
+            },
+            {
+              "en": "We need to find solutions to water scarcity.",
+              "vi": "Chúng ta cần tìm giải pháp cho tình trạng khan hiếm nước.",
+              "ipa": "/wiː niːd tə faɪnd səˈluː.ʃənz tə ˈwɔː.tər ˈsker.sə.ti/"
+            },
+            {
+              "en": "Global cooperation is essential for peace.",
+              "vi": "Hợp tác toàn cầu là cần thiết cho hòa bình.",
+              "ipa": "/ˈɡloʊ.bəl koʊˌɒp.əˈreɪ.ʃən ɪz ɪˈsen.ʃəl fɔːr piːs/"
+            },
+            {
+              "en": "Young people can make a positive impact.",
+              "vi": "Người trẻ có thể tạo ra tác động tích cực.",
+              "ipa": "/jʌŋ ˈpiː.pəl kæn meɪk ə ˈpɒz.ɪ.tɪv ˈɪm.pækt/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "climate change",
+              "meaning": "biến đổi khí hậu"
+            },
+            {
+              "word": "poverty",
+              "meaning": "đói nghèo"
+            },
+            {
+              "word": "education",
+              "meaning": "giáo dục"
+            },
+            {
+              "word": "technology",
+              "meaning": "công nghệ"
+            },
+            {
+              "word": "global cooperation",
+              "meaning": "hợp tác toàn cầu"
+            },
+            {
+              "word": "impact",
+              "meaning": "tác động"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Lớp 11",
+      "icon": "🌐",
+      "subtitle": "Đa dạng văn hóa",
+      "gradeLevel": "high",
+      "lessons": [
+        {
+          "id": 1101,
+          "title": "Đa dạng văn hóa",
+          "icon": "🌏",
+          "subtitle": "Tìm hiểu về sự khác biệt văn hóa trên thế giới",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "Cultural diversity makes our world interesting.",
+              "vi": "Đa dạng văn hóa làm cho thế giới của chúng ta thú vị.",
+              "ipa": "/ˈkʌl.tʃər.əl daɪˈvɜːr.sə.ti meɪks aʊər wɜːrld ˈɪn.trə.stɪŋ/"
+            },
+            {
+              "en": "Each country has its own traditions.",
+              "vi": "Mỗi quốc gia có truyền thống riêng.",
+              "ipa": "/iːtʃ ˈkʌn.tri hæz ɪts oʊn trəˈdɪʃ.ənz/"
+            },
+            {
+              "en": "Learning about other cultures broadens our mind.",
+              "vi": "Tìm hiểu về các nền văn hóa khác mở rộng tầm nhìn.",
+              "ipa": "/ˈlɜːr.nɪŋ əˈbaʊt ˈʌð.ər ˈkʌl.tʃərz ˈbrɔː.dənz aʊər maɪnd/"
+            },
+            {
+              "en": "Vietnamese culture is rich in history.",
+              "vi": "Văn hóa Việt Nam giàu truyền thống lịch sử.",
+              "ipa": "/ˌvi.et.nəˈmiːz ˈkʌl.tʃər ɪz rɪtʃ ɪn ˈhɪs.tər.i/"
+            },
+            {
+              "en": "Food is an important part of every culture.",
+              "vi": "Ẩm thực là một phần quan trọng của mọi nền văn hóa.",
+              "ipa": "/fuːd ɪz ən ɪmˈpɔːr.tənt pɑːrt əv ˈev.ri ˈkʌl.tʃər/"
+            },
+            {
+              "en": "Festivals show the beauty of cultural heritage.",
+              "vi": "Lễ hội thể hiện vẻ đẹp của di sản văn hóa.",
+              "ipa": "/ˈfes.tɪ.vəlz ʃoʊ ðə ˈbjuː.ti əv ˈkʌl.tʃər.əl ˈher.ɪ.tɪdʒ/"
+            },
+            {
+              "en": "Respecting differences helps us live in harmony.",
+              "vi": "Tôn trọng sự khác biệt giúp chúng ta sống hòa hợp.",
+              "ipa": "/rɪˈspek.tɪŋ ˈdɪf.ər.ən.sɪz helps ʌs lɪv ɪn ˈhɑːr.mə.ni/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "cultural diversity",
+              "meaning": "đa dạng văn hóa"
+            },
+            {
+              "word": "tradition",
+              "meaning": "truyền thống"
+            },
+            {
+              "word": "culture",
+              "meaning": "văn hóa"
+            },
+            {
+              "word": "heritage",
+              "meaning": "di sản"
+            },
+            {
+              "word": "festival",
+              "meaning": "lễ hội"
+            },
+            {
+              "word": "harmony",
+              "meaning": "hòa hợp"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Lớp 12",
+      "icon": "🎓",
+      "subtitle": "Nghề nghiệp tương lai",
+      "gradeLevel": "high",
+      "lessons": [
+        {
+          "id": 1201,
+          "title": "Nghề nghiệp tương lai",
+          "icon": "💼",
+          "subtitle": "Định hướng nghề nghiệp và kỹ năng cần thiết",
+          "videoUrl": "",
+          "sentences": [
+            {
+              "en": "Choosing a career is an important decision.",
+              "vi": "Chọn nghề nghiệp là một quyết định quan trọng.",
+              "ipa": "/ˈtʃuː.zɪŋ ə kəˈrɪr ɪz ən ɪmˈpɔːr.tənt dɪˈsɪʒ.ən/"
+            },
+            {
+              "en": "I am interested in information technology.",
+              "vi": "Mình quan tâm đến công nghệ thông tin.",
+              "ipa": "/aɪ æm ˈɪn.trə.stɪd ɪn ˌɪn.fərˈmeɪ.ʃən tekˈnɒl.ə.dʒi/"
+            },
+            {
+              "en": "Soft skills are important for any job.",
+              "vi": "Kỹ năng mềm quan trọng cho mọi công việc.",
+              "ipa": "/sɒft skɪlz ɑːr ɪmˈpɔːr.tənt fɔːr ˈen.i dʒɒb/"
+            },
+            {
+              "en": "I want to work in a multinational company.",
+              "vi": "Mình muốn làm việc trong một công ty đa quốc gia.",
+              "ipa": "/aɪ wɒnt tə wɜːrk ɪn ə ˌmʌl.tiˈnæʃ.ən.əl ˈkʌm.pə.ni/"
+            },
+            {
+              "en": "Being fluent in English opens many doors.",
+              "vi": "Thành thạo tiếng Anh mở ra nhiều cơ hội.",
+              "ipa": "/ˈbiː.ɪŋ ˈfluː.ənt ɪn ˈɪŋ.ɡlɪʃ ˈoʊ.pənz ˈmen.i dɔːrz/"
+            },
+            {
+              "en": "I am preparing for the university entrance exam.",
+              "vi": "Mình đang chuẩn bị cho kỳ thi đại học.",
+              "ipa": "/aɪ æm prɪˈper.ɪŋ fɔːr ðə ˌjuː.nɪˈvɜːr.sə.ti ˈen.trəns ɪɡˈzæm/"
+            },
+            {
+              "en": "I hope to build a successful career in finance.",
+              "vi": "Mình hy vọng xây dựng sự nghiệp thành công trong lĩnh vực tài chính.",
+              "ipa": "/aɪ hoʊp tə bɪld ə səkˈses.fəl kəˈrɪr ɪn ˈfaɪ.næns/"
+            }
+          ],
+          "vocabulary": [
+            {
+              "word": "career",
+              "meaning": "nghề nghiệp"
+            },
+            {
+              "word": "information technology",
+              "meaning": "công nghệ thông tin"
+            },
+            {
+              "word": "soft skills",
+              "meaning": "kỹ năng mềm"
+            },
+            {
+              "word": "multinational",
+              "meaning": "đa quốc gia"
+            },
+            {
+              "word": "fluent",
+              "meaning": "thành thạo"
+            },
+            {
+              "word": "finance",
+              "meaning": "tài chính"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
