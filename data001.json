@@ -1094,22 +1094,17 @@
       "subtitle": "Lớp học, sở thích và mùa",
       "gradeLevel": "elementary",
       "lessons": [
-        {
+       {
   "id": 401,
-  "title": "Baif1-Lesson1-Where are you from?",
+  "title": "Bài 1-Lesson 1",
   "icon": "🌍",
   "subtitle": "Giới thiệu bản thân và hỏi quốc tịch",
   "videoUrl": "",
   "sentences": [
-    { "en": "Hello. I'm Minh.", "vi": "Xin chào. Mình là Minh.", "ipa": "/həˈləʊ | aɪm mɪn/" },
-    { "en": "I'm from Viet Nam.", "vi": "Mình đến từ Việt Nam.", "ipa": "/aɪm frəm ˌvjetˈnæm/" },
-    { "en": "Where are you from?", "vi": "Bạn đến từ đâu?", "ipa": "/weər ɑːr juː frəm/" },
-    { "en": "Hello, Minh. I'm Mary.", "vi": "Chào Minh. Mình là Mary.", "ipa": "/həˈləʊ mɪn | aɪm ˈmeəri/" },
-    { "en": "I'm from America.", "vi": "Mình đến từ Mỹ.", "ipa": "/aɪm frəm əˈmerɪkə/" },
-    { "en": "Hi. I'm Lucy.", "vi": "Chào. Mình là Lucy.", "ipa": "/haɪ | aɪm ˈluːsi/" },
-    { "en": "I'm from Britain.", "vi": "Mình đến từ Anh.", "ipa": "/aɪm frəm ˈbrɪtən/" },
-    { "en": "Hi, Lucy. I'm Ben.", "vi": "Chào Lucy. Mình là Ben.", "ipa": "/haɪ ˈluːsi | aɪm ben/" },
-    { "en": "I'm from Australia.", "vi": "Mình đến từ Úc.", "ipa": "/aɪm frəm ɒˈstreɪliə/" }
+    { "en": "Hello. I'm Minh. I'm from Viet Nam. Where are you from?", "vi": "Xin chào. Mình là Minh. Mình đến từ Việt Nam. Bạn đến từ đâu?", "ipa": "/həˈləʊ | aɪm mɪn | aɪm frəm ˌvjetˈnæm | weər ɑːr juː frəm/" },
+    { "en": "Hello, Minh. I'm Mary. I'm from America.", "vi": "Chào Minh. Mình là Mary. Mình đến từ Mỹ.", "ipa": "/həˈləʊ mɪn | aɪm ˈmeəri | aɪm frəm əˈmerɪkə/" },
+    { "en": "Hi. I'm Lucy. I'm from Britain. Where are you from?", "vi": "Chào. Mình là Lucy. Mình đến từ Anh. Bạn đến từ đâu?", "ipa": "/haɪ | aɪm ˈluːsi | aɪm frəm ˈbrɪtən | weər ɑːr juː frəm/" },
+    { "en": "Hi, Lucy. I'm Ben. I'm from Australia.", "vi": "Chào Lucy. Mình là Ben. Mình đến từ Úc.", "ipa": "/haɪ ˈluːsi | aɪm ben | aɪm frəm ɒˈstreɪliə/" }
   ],
   "vocabulary": [
     { "word": "hello", "meaning": "xin chào" },
