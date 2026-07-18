@@ -1120,75 +1120,34 @@
   ]
 },
         {
-          "id": 402,
-          "title": "Sở thích của em",
-          "icon": "🎯",
-          "subtitle": "Nói về những điều yêu thích",
-          "videoUrl": "",
-          "sentences": [
-            {
-              "en": "I like drawing pictures.",
-              "vi": "Mình thích vẽ tranh.",
-              "ipa": "/aɪ laɪk ˈdrɔː.ɪŋ ˈpɪk.tʃərz/"
-            },
-            {
-              "en": "She loves singing songs.",
-              "vi": "Cô ấy thích hát.",
-              "ipa": "/ʃiː lʌvz ˈsɪŋ.ɪŋ sɔːŋz/"
-            },
-            {
-              "en": "He enjoys playing football.",
-              "vi": "Anh ấy thích chơi bóng đá.",
-              "ipa": "/hiː ɪnˈdʒɔɪz ˈpleɪ.ɪŋ ˈfʊt.bɔːl/"
-            },
-            {
-              "en": "My hobby is reading books.",
-              "vi": "Sở thích của mình là đọc sách.",
-              "ipa": "/maɪ ˈhɒb.i ɪz ˈriːd.ɪŋ bʊks/"
-            },
-            {
-              "en": "I can swim very well.",
-              "vi": "Mình có thể bơi rất giỏi.",
-              "ipa": "/aɪ kæn swɪm ˈver.i wel/"
-            },
-            {
-              "en": "Do you like dancing?",
-              "vi": "Bạn có thích nhảy không?",
-              "ipa": "/duː juː laɪk ˈdæn.sɪŋ/"
-            },
-            {
-              "en": "We love playing chess together.",
-              "vi": "Chúng mình thích chơi cờ cùng nhau.",
-              "ipa": "/wiː lʌv ˈpleɪ.ɪŋ tʃes təˈɡeð.ər/"
-            }
-          ],
-          "vocabulary": [
-            {
-              "word": "drawing",
-              "meaning": "vẽ"
-            },
-            {
-              "word": "singing",
-              "meaning": "hát"
-            },
-            {
-              "word": "football",
-              "meaning": "bóng đá"
-            },
-            {
-              "word": "hobby",
-              "meaning": "sở thích"
-            },
-            {
-              "word": "swimming",
-              "meaning": "bơi lội"
-            },
-            {
-              "word": "chess",
-              "meaning": "cờ vua"
-            }
-          ]
-        },
+  "id": 402,
+  "title": "Who's that?",
+  "icon": "👫",
+  "subtitle": "Hỏi và giới thiệu bạn mới",
+  "videoUrl": "",
+  "sentences": [
+    { "en": "Who's that?", "vi": "Đó là ai?", "ipa": "/huːz ðæt/" },
+    { "en": "It's my new friend.", "vi": "Đó là bạn mới của mình.", "ipa": "/ɪts maɪ njuː frend/" },
+    { "en": "Where's she from?", "vi": "Cô ấy đến từ đâu?", "ipa": "/weəz ʃiː frəm/" },
+    { "en": "She's from Japan.", "vi": "Cô ấy đến từ Nhật Bản.", "ipa": "/ʃiːz frəm dʒəˈpæn/" },
+    { "en": "Who's that?", "vi": "Đó là ai?", "ipa": "/huːz ðæt/" },
+    { "en": "It's my new friend.", "vi": "Đó là bạn mới của mình.", "ipa": "/ɪts maɪ njuː frend/" },
+    { "en": "Where's he from?", "vi": "Cậu ấy đến từ đâu?", "ipa": "/weəz hiː frəm/" },
+    { "en": "He's from Singapore.", "vi": "Cậu ấy đến từ Singapore.", "ipa": "/hiːz frəm ˈsɪŋəpɔːr/" }
+  ],
+  "vocabulary": [
+    { "word": "who", "meaning": "ai" },
+    { "word": "that", "meaning": "kia - đó" },
+    { "word": "friend", "meaning": "bạn" },
+    { "word": "new", "meaning": "mới" },
+    { "word": "from", "meaning": "đến từ" },
+    { "word": "new friend", "meaning": "bạn mới" },
+    { "word": "my new friend", "meaning": "bạn mới của tôi - bạn mới của mình" },
+    { "word": "be from", "meaning": "đến từ" },
+    { "word": "Japan", "meaning": "Nhật Bản" },
+    { "word": "Singapore", "meaning": "Singapore" }
+  ]
+},
         {
           "id": 403,
           "title": "Các mùa trong năm",
