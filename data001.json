@@ -1095,75 +1095,35 @@
       "gradeLevel": "elementary",
       "lessons": [
         {
-          "id": 401,
-          "title": "Lớp học của em",
-          "icon": "🏫",
-          "subtitle": "Miêu tả lớp học và bạn bè",
-          "videoUrl": "",
-          "sentences": [
-            {
-              "en": "Our classroom is on the second floor.",
-              "vi": "Lớp học của chúng mình ở tầng hai.",
-              "ipa": "/aʊər ˈklæs.ruːm ɪz ɒn ðə ˈsek.ənd flɔːr/"
-            },
-            {
-              "en": "There are twenty desks in the room.",
-              "vi": "Có hai mươi cái bàn trong phòng.",
-              "ipa": "/ðer ɑːr ˈtwen.i desks ɪn ðə ruːm/"
-            },
-            {
-              "en": "The board is at the front.",
-              "vi": "Bảng ở phía trước.",
-              "ipa": "/ðə bɔːrd ɪz æt ðə frʌnt/"
-            },
-            {
-              "en": "Our teacher writes on the board.",
-              "vi": "Cô giáo viết lên bảng.",
-              "ipa": "/aʊər ˈtiː.tʃər raɪts ɒn ðə bɔːrd/"
-            },
-            {
-              "en": "I sit next to my friend.",
-              "vi": "Mình ngồi cạnh bạn của mình.",
-              "ipa": "/aɪ sɪt nekst tə maɪ frend/"
-            },
-            {
-              "en": "We raise our hands to speak.",
-              "vi": "Chúng mình giơ tay để phát biểu.",
-              "ipa": "/wiː reɪz aʊər hændz tə spiːk/"
-            },
-            {
-              "en": "The bell rings at four o'clock.",
-              "vi": "Chuông reo lúc bốn giờ.",
-              "ipa": "/ðə bel rɪŋz æt fɔːr əˈklɒk/"
-            }
-          ],
-          "vocabulary": [
-            {
-              "word": "classroom",
-              "meaning": "lớp học"
-            },
-            {
-              "word": "board",
-              "meaning": "bảng"
-            },
-            {
-              "word": "desk",
-              "meaning": "bàn học"
-            },
-            {
-              "word": "floor",
-              "meaning": "tầng"
-            },
-            {
-              "word": "bell",
-              "meaning": "chuông"
-            },
-            {
-              "word": "raise hand",
-              "meaning": "giơ tay"
-            }
-          ]
-        },
+  "id": 401,
+  "title": "Baif1-Lesson1-Where are you from?",
+  "icon": "🌍",
+  "subtitle": "Giới thiệu bản thân và hỏi quốc tịch",
+  "videoUrl": "",
+  "sentences": [
+    { "en": "Hello. I'm Minh.", "vi": "Xin chào. Mình là Minh.", "ipa": "/həˈləʊ | aɪm mɪn/" },
+    { "en": "I'm from Viet Nam.", "vi": "Mình đến từ Việt Nam.", "ipa": "/aɪm frəm ˌvjetˈnæm/" },
+    { "en": "Where are you from?", "vi": "Bạn đến từ đâu?", "ipa": "/weər ɑːr juː frəm/" },
+    { "en": "Hello, Minh. I'm Mary.", "vi": "Chào Minh. Mình là Mary.", "ipa": "/həˈləʊ mɪn | aɪm ˈmeəri/" },
+    { "en": "I'm from America.", "vi": "Mình đến từ Mỹ.", "ipa": "/aɪm frəm əˈmerɪkə/" },
+    { "en": "Hi. I'm Lucy.", "vi": "Chào. Mình là Lucy.", "ipa": "/haɪ | aɪm ˈluːsi/" },
+    { "en": "I'm from Britain.", "vi": "Mình đến từ Anh.", "ipa": "/aɪm frəm ˈbrɪtən/" },
+    { "en": "Hi, Lucy. I'm Ben.", "vi": "Chào Lucy. Mình là Ben.", "ipa": "/haɪ ˈluːsi | aɪm ben/" },
+    { "en": "I'm from Australia.", "vi": "Mình đến từ Úc.", "ipa": "/aɪm frəm ɒˈstreɪliə/" }
+  ],
+  "vocabulary": [
+    { "word": "hello", "meaning": "xin chào" },
+    { "word": "hi", "meaning": "chào" },
+    { "word": "I'm", "meaning": "tôi là - mình là" },
+    { "word": "from", "meaning": "đến từ" },
+    { "word": "Where are you from?", "meaning": "Bạn đến từ đâu?" },
+    { "word": "I'm from...", "meaning": "Tôi đến từ..." },
+    { "word": "Viet Nam", "meaning": "Việt Nam" },
+    { "word": "America", "meaning": "Mỹ" },
+    { "word": "Britain", "meaning": "Anh" },
+    { "word": "Australia", "meaning": "Úc" }
+  ]
+},
         {
           "id": 402,
           "title": "Sở thích của em",
