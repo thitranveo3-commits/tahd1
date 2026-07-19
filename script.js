@@ -4,7 +4,7 @@
    ======================================== */
 
 /* -- Cache version -- */
-var CACHE_VERSION = 'v202607183';
+var CACHE_VERSION = 'v202607184';
 
 /* -- 1. Toast Notification -- */
 function showToast(message, type) {
@@ -46,6 +46,7 @@ var G_CURRENT_CLASS = null;  // Currently selected class id
 var G_PROGRESS = {};
 var G_RATINGS = {};
 var G_GAME_BESTS = {};
+var G_VOCABULARY = [];       // Root-level vocabulary from data001.json
 
 function lsSave() {
   try { localStorage.setItem('luyennoi_conv', JSON.stringify(G_CONVERSATIONS)); } catch(e) {}
@@ -136,6 +137,7 @@ async function initData() {
     }
     if (allClasses.length > 0) {
       G_CLASSES = allClasses;
+      G_VOCABULARY = json.vocabulary || [];
       try { localStorage.setItem(DATA_VERSION_KEY, CACHE_VERSION); } catch(e) {}
       lsSave();
     }
@@ -340,7 +342,7 @@ var playerUtterance = null;
 var playerAvatars = ['\uD83D\uDC64', '\uD83D\uDC69'];
 
 function switchView(view, data) {
-  var views = ['classView','homeView','practiceView','modeSelectView','vocabView','writingView','speakFastView','playerView','roleplayView','reviewView','statsView'];
+  var views = ['classView','homeView','practiceView','modeSelectView','vocabView','writingView','speakFastView','playerView','roleplayView','reviewView','statsView','vocabListView'];
   views.forEach(function(id) {
     var el = document.getElementById(id);
     if (el) el.classList.add('hidden');
@@ -407,6 +409,11 @@ function switchView(view, data) {
     void document.getElementById('statsView').offsetWidth;
     document.getElementById('statsView').classList.add('animate-fade-in');
     renderStatsView();
+  } else if (view === 'vocabList') {
+    document.getElementById('vocabListView').classList.remove('hidden');
+    void document.getElementById('vocabListView').offsetWidth;
+    document.getElementById('vocabListView').classList.add('animate-fade-in');
+    renderVocabListView();
   }
 }
 
@@ -963,7 +970,7 @@ function renderSpeakFastQuestion() {
   html += '<div id="sfResult" class="mt-4"></div>';
   html += '<div class="flex items-center justify-between w-full mt-4">';
   html += (speakFastIndex > 0) ? '<button onclick="sfPrev()" class="flex items-center gap-1 text-purple-600 font-medium py-2 px-3 text-sm">← Trước</button>' : '<div></div>';
-  html += '<button id="sfNextBtn" style="display:none" class="flex items-center gap-1 text-purple-600 font-medium py-2 px-3 text-sm">Sau →</button>';
+  html += '<button id="sfNextBtn" style="display:none" onclick="sfNext()" class="flex items-center gap-1 text-purple-600 font-medium py-2 px-3 text-sm">Sau →</button>';
   html += '</div></div>';
   c.innerHTML = html;
 }
@@ -1664,6 +1671,56 @@ function renderStatsView() {
   }
   html += '</div>';
   c.innerHTML = html;
+}
+
+/* ============================================
+   VOCABULARY LIST VIEW
+   ============================================ */
+function renderVocabListView() {
+  var c = document.getElementById('vocabListContent');
+  if (!c) return;
+  if (!G_VOCABULARY || G_VOCABULARY.length === 0) {
+    c.innerHTML = '<div class="text-center py-12"><div class="text-5xl mb-4">📖</div><p class="text-gray-400 text-lg">Chưa có từ vựng nào.</p></div>';
+    return;
+  }
+  var html = '<div class="flex items-center justify-between mb-4">';
+  html += '<h2 class="text-xl font-bold text-gray-800">📖 Danh sách từ vựng</h2>';
+  html += '<button onclick="switchView(\'class\')" class="flex items-center gap-1.5 text-purple-600 font-medium py-1 text-sm"><svg class="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"/></svg> Quay lại</button>';
+  html += '</div>';
+  html += '<p class="text-gray-400 text-sm mb-5">' + G_VOCABULARY.length + ' từ · Bấm 🔊 để nghe phát âm</p>';
+  html += '<div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">';
+  G_VOCABULARY.forEach(function(v, idx) {
+    if (!v || !v.en) return;
+    var en = escHtml(v.en);
+    var vi = escHtml(v.vi || '');
+    var ipa = escHtml(v.ipa || '');
+    html += '<div class="vocab-list-card">';
+    html += '<div class="flex items-start justify-between">';
+    html += '<div class="flex-1 min-w-0">';
+    html += '<div class="flex items-center gap-2">';
+    html += '<span class="font-bold text-gray-900 text-lg">' + en + '</span>';
+    if (ipa) {
+      html += '<span class="text-sm text-indigo-500 font-mono">' + ipa + '</span>';
+    }
+    html += '</div>';
+    if (vi) {
+      html += '<p class="text-gray-400 text-sm mt-0.5">' + vi + '</p>';
+    }
+    html += '</div>';
+    html += '<button class="vocab-speak-btn" onclick="speakVocabWord(' + idx + ')" title="Phát âm">🔊</button>';
+    html += '</div></div>';
+  });
+  html += '</div>';
+  c.innerHTML = html;
+}
+
+function speakVocabWord(idx) {
+  if (!G_VOCABULARY || !G_VOCABULARY[idx] || !G_VOCABULARY[idx].en) return;
+  var word = G_VOCABULARY[idx].en;
+  try { speechSynthesis.cancel(); } catch(e) {}
+  var u = new SpeechSynthesisUtterance(word);
+  u.lang = 'en-US'; u.rate = 0.8;
+  speechSynthesis.speak(u);
 }
 
 /* ============================================
