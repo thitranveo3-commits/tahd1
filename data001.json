@@ -1096,7 +1096,7 @@
       "lessons": [
        {
   "id": 401,
-  "title": "Bài 1-Lesson 1",
+  "title": "1.My Friend-Lesson 1",
   "icon": "🌍",
   "subtitle": "Giới thiệu bản thân và hỏi quốc tịch",
   "videoUrl": "",
@@ -1121,7 +1121,7 @@
 },
         {
   "id": 402,
-  "title": "Bài 1-My friend-Lesson 2 ",
+  "title": "1.My Friend-Lesson 2 ",
   "icon": "👫",
   "subtitle": "Hỏi và giới thiệu bạn mới",
   "videoUrl": "",
@@ -1148,78 +1148,320 @@
     { "word": "Singapore", "meaning": "Singapore" }
   ]
 },
+       {
+  "id": 403,
+  "title": "1.My Friends-Lesson 3",
+  "icon": "👫",
+  "subtitle": "Giới thiệu bản thân và bạn bè",
+  "videoUrl": "",
+  "sentences": [
+    {
+      "en": "Hello. I am Minh. I am nine years old. I am from Viet Nam. I have two new friends, Tony and Laura. Tony is from America. Laura is from Australia. They are friendly.",
+      "vi": "Xin chào. Mình là Minh. Mình chín tuổi. Mình đến từ Việt Nam. Mình có hai người bạn mới là Tony và Laura. Tony đến từ Mỹ. Laura đến từ Úc. Họ rất thân thiện.",
+      "ipa": "/həˈləʊ | aɪ æm mɪn | aɪ æm naɪn jɪəz əʊld | aɪ æm frəm ˌvjetˈnæm | aɪ hæv tuː njuː frendz ˈtəʊni ænd ˈlɔːrə | ˈtəʊni ɪz frəm əˈmerɪkə | ˈlɔːrə ɪz frəm ɒˈstreɪliə | ðeɪ ɑː ˈfrendli/"
+    }
+  ],
+  "vocabulary": [
+    { "word": "years old", "meaning": "tuổi" },
+    { "word": "have", "meaning": "có" },
+    { "word": "new friend", "meaning": "bạn mới" },
+    { "word": "friendly", "meaning": "thân thiện" },
+    { "word": "be from", "meaning": "đến từ" },
+    { "word": "Viet Nam", "meaning": "Việt Nam" },
+    { "word": "America", "meaning": "Mỹ" },
+    { "word": "Australia", "meaning": "Úc" }
+  ]
+},
         {
-          "id": 403,
-          "title": "Các mùa trong năm",
-          "icon": "🌸",
-          "subtitle": "Miêu tả thời tiết bốn mùa",
-          "videoUrl": "",
-          "sentences": [
-            {
-              "en": "There are four seasons in a year.",
-              "vi": "Có bốn mùa trong một năm.",
-              "ipa": "/ðer ɑːr fɔːr ˈsiː.zənz ɪn ə jɪr/"
-            },
-            {
-              "en": "Spring is warm and beautiful.",
-              "vi": "Mùa xuân ấm áp và tươi đẹp.",
-              "ipa": "/sprɪŋ ɪz wɔːrm ænd ˈbjuː.tɪ.fəl/"
-            },
-            {
-              "en": "Summer is very hot.",
-              "vi": "Mùa hè rất nóng.",
-              "ipa": "/ˈsʌm.ər ɪz ˈver.i hɒt/"
-            },
-            {
-              "en": "Leaves fall in autumn.",
-              "vi": "Lá rụng vào mùa thu.",
-              "ipa": "/liːvz fɔːl ɪn ˈɔː.təm/"
-            },
-            {
-              "en": "Winter is cold and snowy.",
-              "vi": "Mùa đông lạnh và có tuyết.",
-              "ipa": "/ˈwɪn.tər ɪz koʊld ænd ˈsnoʊ.i/"
-            },
-            {
-              "en": "I go swimming in summer.",
-              "vi": "Mình đi bơi vào mùa hè.",
-              "ipa": "/aɪ ɡoʊ ˈswɪm.ɪŋ ɪn ˈsʌm.ər/"
-            },
-            {
-              "en": "We make snowmen in winter.",
-              "vi": "Chúng mình làm người tuyết vào mùa đông.",
-              "ipa": "/wiː meɪk ˈsnoʊ.men ɪn ˈwɪn.tər/"
-            }
-          ],
-          "vocabulary": [
-            {
-              "word": "spring",
-              "meaning": "mùa xuân"
-            },
-            {
-              "word": "summer",
-              "meaning": "mùa hè"
-            },
-            {
-              "word": "autumn",
-              "meaning": "mùa thu"
-            },
-            {
-              "word": "winter",
-              "meaning": "mùa đông"
-            },
-            {
-              "word": "season",
-              "meaning": "mùa"
-            },
-            {
-              "word": "snow",
-              "meaning": "tuyết"
-            }
-          ]
-        }
-      ]
-    },
+  "id": 404,
+  "title": "2.Time And Daily Routines-Lesson 1 ",
+  "icon": "🕒",
+  "subtitle": "Hỏi và nói về thời gian",
+  "videoUrl": "",
+  "sentences": [
+    { "en": "What time is it?", "vi": "Bây giờ là mấy giờ?", "ipa": "/wɒt taɪm ɪz ɪt/" },
+    { "en": "It's eight thirty.", "vi": "Bây giờ là tám giờ ba mươi.", "ipa": "/ɪts eɪt ˈθɜːti/" },
+    { "en": "Let's have a break.", "vi": "Hãy nghỉ giải lao nhé.", "ipa": "/lets hæv ə breɪk/" },
+    { "en": "What time is it?", "vi": "Bây giờ là mấy giờ?", "ipa": "/wɒt taɪm ɪz ɪt/" },
+    { "en": "It's three fifteen. Let's go into the classroom.", "vi": "Bây giờ là ba giờ mười lăm. Chúng mình vào lớp thôi.", "ipa": "/ɪts θriː fɪfˈtiːn | lets ɡəʊ ˈɪntuː ðə ˈklɑːsruːm/" }
+  ],
+  "vocabulary": [
+    { "word": "time", "meaning": "thời gian - giờ" },
+    { "word": "o'clock", "meaning": "giờ đúng" },
+    { "word": "eight thirty", "meaning": "tám giờ ba mươi" },
+    { "word": "three fifteen", "meaning": "ba giờ mười lăm" },
+    { "word": "have a break", "meaning": "nghỉ giải lao" },
+    { "word": "go into", "meaning": "đi vào" },
+    { "word": "classroom", "meaning": "lớp học" }
+  ]
+},
+        {
+  "id": 405,
+  "title": "2.Time And Daily Routines-Lesson 2",
+  "icon": "⏰",
+  "subtitle": "Hỏi và trả lời về thời gian sinh hoạt",
+  "videoUrl": "",
+  "sentences": [
+    { "en": "What time do you get up?", "vi": "Bạn thức dậy lúc mấy giờ?", "ipa": "/wɒt taɪm də juː ɡet ʌp/" },
+    { "en": "At five forty-five.", "vi": "Lúc năm giờ bốn mươi lăm.", "ipa": "/æt faɪv ˌfɔːti ˈfaɪv/" },
+    { "en": "I get up at six o'clock. And you?", "vi": "Mình thức dậy lúc sáu giờ. Còn bạn thì sao?", "ipa": "/aɪ ɡet ʌp æt sɪks əˈklɒk | ænd juː/" },
+    { "en": "What time do you have breakfast?", "vi": "Bạn ăn sáng lúc mấy giờ?", "ipa": "/wɒt taɪm də juː hæv ˈbrekfəst/" },
+    { "en": "At six fifteen.", "vi": "Lúc sáu giờ mười lăm.", "ipa": "/æt sɪks fɪfˈtiːn/" }
+  ],
+  "vocabulary": [
+    { "word": "get up", "meaning": "thức dậy" },
+    { "word": "have breakfast", "meaning": "ăn sáng" },
+    { "word": "five forty-five", "meaning": "năm giờ bốn mươi lăm" },
+    { "word": "six o'clock", "meaning": "sáu giờ" },
+    { "word": "six fifteen", "meaning": "sáu giờ mười lăm" },
+    { "word": "what time", "meaning": "mấy giờ" }
+  ]
+},
+        {
+  "id": 406,
+  "title": "2.Time And Daily Routines-Lesson 3",
+  "icon": "⏰",
+  "subtitle": "Nói về thời gian biểu hằng ngày",
+  "videoUrl": "",
+  "sentences": [
+    {
+      "en": "I am a pupil at Hoa Lan Primary School. I get up at six o'clock. I wash my face and clean my teeth. Then I have breakfast at six fifteen. I go to school at seven o'clock. I have lunch at school. I have dinner at home at seven thirty. I do my homework and go to bed at nine forty-five.",
+      "vi": "Mình là học sinh Trường Tiểu học Hoa Lan. Mình thức dậy lúc sáu giờ. Mình rửa mặt và đánh răng. Sau đó mình ăn sáng lúc sáu giờ mười lăm. Mình đi học lúc bảy giờ. Mình ăn trưa ở trường. Mình ăn tối ở nhà lúc bảy giờ ba mươi. Mình làm bài tập về nhà và đi ngủ lúc chín giờ bốn mươi lăm.",
+      "ipa": "/aɪ æm ə ˈpjuːpl æt ˈhwɑː lɑːn ˈpraɪməri skuːl | aɪ ɡet ʌp æt sɪks əˈklɒk | aɪ wɒʃ maɪ feɪs ænd kliːn maɪ tiːθ | ðen aɪ hæv ˈbrekfəst æt sɪks fɪfˈtiːn | aɪ ɡoʊ tə skuːl æt ˈsevən əˈklɒk | aɪ hæv lʌntʃ æt skuːl | aɪ hæv ˈdɪnər æt hoʊm æt ˈsevən ˈθɜːrti | aɪ duː maɪ ˈhoʊmwɜːrk ænd ɡoʊ tə bed æt naɪn ˌfɔːrti ˈfaɪv/"
+    }
+  ],
+  "vocabulary": [
+    { "word": "pupil", "meaning": "học sinh" },
+    { "word": "primary school", "meaning": "trường tiểu học" },
+    { "word": "get up", "meaning": "thức dậy" },
+    { "word": "wash my face", "meaning": "rửa mặt" },
+    { "word": "clean my teeth", "meaning": "đánh răng" },
+    { "word": "have breakfast", "meaning": "ăn sáng" },
+    { "word": "go to school", "meaning": "đi học" },
+    { "word": "have lunch", "meaning": "ăn trưa" },
+    { "word": "have dinner", "meaning": "ăn tối" },
+    { "word": "at home", "meaning": "ở nhà" },
+    { "word": "do my homework", "meaning": "làm bài tập về nhà" },
+    { "word": "go to bed", "meaning": "đi ngủ" }
+  ]
+},
+        {
+  "id": 407,
+  "title": "3.My Week-Lesson 1",
+  "icon": "📅",
+  "subtitle": "Hỏi và nói về các ngày trong tuần",
+  "videoUrl": "",
+  "sentences": [
+    { "en": "Hi, class. What day is it today?", "vi": "Chào cả lớp. Hôm nay là thứ mấy?", "ipa": "/haɪ klɑːs | wɒt deɪ ɪz ɪt təˈdeɪ/" },
+    { "en": "It's Monday.", "vi": "Hôm nay là thứ Hai.", "ipa": "/ɪts ˈmʌndeɪ/" },
+    { "en": "What day is it today?", "vi": "Hôm nay là thứ mấy?", "ipa": "/wɒt deɪ ɪz ɪt təˈdeɪ/" },
+    { "en": "It's Friday.", "vi": "Hôm nay là thứ Sáu.", "ipa": "/ɪts ˈfraɪdeɪ/" }
+  ],
+  "vocabulary": [
+    { "word": "day", "meaning": "ngày" },
+    { "word": "today", "meaning": "hôm nay" },
+    { "word": "Monday", "meaning": "thứ Hai" },
+    { "word": "Friday", "meaning": "thứ Sáu" },
+    { "word": "what day", "meaning": "thứ mấy" }
+  ]
+},
+        {
+  "id": 408,
+  "title": "3.My Week-Lesson 2",
+  "icon": "🗓️",
+  "subtitle": "Hỏi và nói về hoạt động theo các ngày trong tuần",
+  "videoUrl": "",
+  "sentences": [
+    { "en": "What day is it today?", "vi": "Hôm nay là thứ mấy?", "ipa": "/wɒt deɪ ɪz ɪt təˈdeɪ/" },
+    { "en": "It's Thursday.", "vi": "Hôm nay là thứ Năm.", "ipa": "/ɪts ˈθɜːzdeɪ/" },
+    { "en": "What do you do on Thursdays?", "vi": "Bạn làm gì vào các ngày thứ Năm?", "ipa": "/wɒt də juː duː ɒn ˈθɜːzdeɪz/" },
+    { "en": "I study at school.", "vi": "Mình học ở trường.", "ipa": "/aɪ ˈstʌdi æt skuːl/" },
+    { "en": "What do you do on Saturdays?", "vi": "Bạn làm gì vào các ngày thứ Bảy?", "ipa": "/wɒt də juː duː ɒn ˈsætədeɪz/" },
+    { "en": "I do housework.", "vi": "Mình làm việc nhà.", "ipa": "/aɪ duː ˈhaʊswɜːk/" }
+  ],
+  "vocabulary": [
+    { "word": "Thursday", "meaning": "thứ Năm" },
+    { "word": "Saturday", "meaning": "thứ Bảy" },
+    { "word": "study", "meaning": "học" },
+    { "word": "housework", "meaning": "việc nhà" },
+    { "word": "study at school", "meaning": "học ở trường" },
+    { "word": "do housework", "meaning": "làm việc nhà" },
+    { "word": "what do you do", "meaning": "bạn làm gì" },
+    { "word": "on Thursdays", "meaning": "vào các ngày thứ Năm" },
+    { "word": "on Saturdays", "meaning": "vào các ngày thứ Bảy" }
+  ]
+},
+        {
+  "id": 409,
+  "title": "3.My Week-Lesson 3",
+  "icon": "📖",
+  "subtitle": "Nói về lịch học và hoạt động cuối tuần",
+  "videoUrl": "",
+  "sentences": [
+    {
+      "en": "I am Nam. It is Monday today. It is a school day. I go to school on Mondays, Tuesdays, Wednesdays, Thursdays and Fridays. At the weekend, I stay at home. I do housework on Saturdays. I watch TV on Sundays. What do you do at the weekend?",
+      "vi": "Mình là Nam. Hôm nay là thứ Hai. Hôm nay là một ngày đi học. Mình đi học vào các ngày thứ Hai, thứ Ba, thứ Tư, thứ Năm và thứ Sáu. Vào cuối tuần, mình ở nhà. Mình làm việc nhà vào các ngày thứ Bảy. Mình xem TV vào Chủ nhật. Cuối tuần bạn làm gì?",
+      "ipa": "/aɪ æm næm | ɪt ɪz ˈmʌndeɪ təˈdeɪ | ɪt ɪz ə skuːl deɪ | aɪ ɡəʊ tə skuːl ɒn ˈmʌndeɪz ˈtjuːzdeɪz ˈwenzdeɪz ˈθɜːzdeɪz ænd ˈfraɪdeɪz | æt ðə ˌwiːkˈend aɪ steɪ æt həʊm | aɪ duː ˈhaʊswɜːk ɒn ˈsætədeɪz | aɪ wɒtʃ ˌtiːˈviː ɒn ˈsʌndeɪz | wɒt də juː duː æt ðə ˌwiːkˈend/"
+    }
+  ],
+  "vocabulary": [
+    { "word": "school day", "meaning": "ngày đi học" },
+    { "word": "at the weekend", "meaning": "vào cuối tuần" },
+    { "word": "go to school", "meaning": "đi học" },
+    { "word": "stay at home", "meaning": "ở nhà" },
+    { "word": "do housework", "meaning": "làm việc nhà" },
+    { "word": "watch TV", "meaning": "xem TV" },
+    { "word": "Monday", "meaning": "thứ Hai" },
+    { "word": "Tuesday", "meaning": "thứ Ba" },
+    { "word": "Wednesday", "meaning": "thứ Tư" },
+    { "word": "Thursday", "meaning": "thứ Năm" },
+    { "word": "Friday", "meaning": "thứ Sáu" },
+    { "word": "Saturday", "meaning": "thứ Bảy" },
+    { "word": "Sunday", "meaning": "Chủ nhật" }
+  ]
+},
+        {
+  "id": 410,
+  "title": "4.My Birthday Party-Lesson 1",
+  "icon": "🎂",
+  "subtitle": "Hỏi về hoạt động và sinh nhật",
+  "videoUrl": "",
+  "sentences": [
+    { "en": "Hi, Lucy. What are you doing?", "vi": "Chào Lucy. Bạn đang làm gì vậy?", "ipa": "/haɪ ˈluːsi | wɒt ə juː ˈduːɪŋ/" },
+    { "en": "I'm making a hat for my birthday party.", "vi": "Mình đang làm một chiếc mũ cho bữa tiệc sinh nhật của mình.", "ipa": "/aɪm ˈmeɪkɪŋ ə hæt fə maɪ ˈbɜːθdeɪ ˈpɑːti/" },
+    { "en": "When's your birthday?", "vi": "Sinh nhật của bạn khi nào?", "ipa": "/wenz jɔː ˈbɜːθdeɪ/" },
+    { "en": "It's in May.", "vi": "Sinh nhật mình vào tháng Năm.", "ipa": "/ɪts ɪn meɪ/" }
+  ],
+  "vocabulary": [
+    { "word": "birthday", "meaning": "sinh nhật" },
+    { "word": "party", "meaning": "bữa tiệc" },
+    { "word": "birthday party", "meaning": "tiệc sinh nhật" },
+    { "word": "make", "meaning": "làm - tạo ra" },
+    { "word": "make a hat", "meaning": "làm một chiếc mũ" },
+    { "word": "May", "meaning": "tháng Năm" },
+    { "word": "in May", "meaning": "vào tháng Năm" }
+  ]
+},
+        {
+  "id": 411,
+  "title": "4.My Birthday Party-Lesson 2",
+  "icon": "🎉",
+  "subtitle": "Chúc mừng sinh nhật và hỏi về đồ ăn, đồ uống",
+  "videoUrl": "",
+  "sentences": [
+    { "en": "Happy birthday, Lucy!", "vi": "Chúc mừng sinh nhật, Lucy!", "ipa": "/ˈhæpi ˈbɜːθdeɪ ˈluːsi/" },
+    { "en": "Thank you.", "vi": "Cảm ơn bạn.", "ipa": "/θæŋk juː/" },
+    { "en": "What do you want to eat, Nam?", "vi": "Nam, bạn muốn ăn gì?", "ipa": "/wɒt də juː wɒnt tə iːt næm/" },
+    { "en": "I want some jam.", "vi": "Mình muốn một ít mứt.", "ipa": "/aɪ wɒnt sʌm dʒæm/" },
+    { "en": "What do you want to drink?", "vi": "Bạn muốn uống gì?", "ipa": "/wɒt də juː wɒnt tə drɪŋk/" },
+    { "en": "I want some juice.", "vi": "Mình muốn một ít nước ép.", "ipa": "/aɪ wɒnt sʌm dʒuːs/" }
+  ],
+  "vocabulary": [
+    { "word": "happy birthday", "meaning": "chúc mừng sinh nhật" },
+    { "word": "thank you", "meaning": "cảm ơn" },
+    { "word": "want", "meaning": "muốn" },
+    { "word": "eat", "meaning": "ăn" },
+    { "word": "drink", "meaning": "uống" },
+    { "word": "jam", "meaning": "mứt" },
+    { "word": "juice", "meaning": "nước ép" },
+    { "word": "want to eat", "meaning": "muốn ăn" },
+    { "word": "want to drink", "meaning": "muốn uống" }
+  ]
+},
+        {
+  "id": 412,
+  "title": "4.My Birthday Party-Lesson 3",
+  "icon": "✉️",
+  "subtitle": "Đọc thư về tiệc sinh nhật",
+  "videoUrl": "",
+  "sentences": [
+    {
+      "en": "Dear pen friend, My name's Bill. I'm from Britain. I'm nine years old. My birthday's in March. It's coming soon. I want some chips and some lemonade at my party. What about you? When's your birthday? What do you want to eat and drink at your party? Write to me soon. Bill",
+      "vi": "Bạn thân mến, Mình tên là Bill. Mình đến từ Anh. Mình chín tuổi. Sinh nhật của mình vào tháng Ba. Sắp đến rồi. Mình muốn có khoai tây chiên và nước chanh tại bữa tiệc của mình. Còn bạn thì sao? Sinh nhật của bạn khi nào? Bạn muốn ăn và uống gì trong bữa tiệc của mình? Hãy sớm viết thư cho mình nhé. Bill",
+      "ipa": "/dɪə pen frend | maɪ neɪmz bɪl | aɪm frəm ˈbrɪtən | aɪm naɪn jɪəz əʊld | maɪ ˈbɜːθdeɪz ɪn mɑːtʃ | ɪts ˈkʌmɪŋ suːn | aɪ wɒnt sʌm tʃɪps ænd sʌm ˌleməˈneɪd æt maɪ ˈpɑːti | wɒt əˈbaʊt juː | wenz jɔː ˈbɜːθdeɪ | wɒt də juː wɒnt tə iːt ænd drɪŋk æt jɔː ˈpɑːti | raɪt tə miː suːn | bɪl/"
+    }
+  ],
+  "vocabulary": [
+    { "word": "pen friend", "meaning": "bạn qua thư" },
+    { "word": "birthday", "meaning": "sinh nhật" },
+    { "word": "in March", "meaning": "vào tháng Ba" },
+    { "word": "come soon", "meaning": "sắp đến" },
+    { "word": "party", "meaning": "bữa tiệc" },
+    { "word": "chips", "meaning": "khoai tây chiên" },
+    { "word": "lemonade", "meaning": "nước chanh" },
+    { "word": "eat and drink", "meaning": "ăn và uống" },
+    { "word": "write to", "meaning": "viết thư cho" },
+    { "word": "write to me soon", "meaning": "sớm viết thư cho mình" }
+  ]
+},
+        {
+  "id": 413,
+  "title": "5.Things We Can Do-Lesson 1",
+  "icon": "🪁",
+  "subtitle": "Nói về những việc có thể và không thể làm",
+  "videoUrl": "",
+  "sentences": [
+    { "en": "I can fly a kite.", "vi": "Mình có thể thả diều.", "ipa": "/aɪ kæn flaɪ ə kaɪt/" },
+    { "en": "I can skip.", "vi": "Mình có thể nhảy dây.", "ipa": "/aɪ kæn skɪp/" },
+    { "en": "Can you ride a bike?", "vi": "Bạn có thể đi xe đạp không?", "ipa": "/kæn juː raɪd ə baɪk/" },
+    { "en": "Yes, I can.", "vi": "Có, mình có thể.", "ipa": "/jes aɪ kæn/" },
+    { "en": "No, I can't.", "vi": "Không, mình không thể.", "ipa": "/nəʊ aɪ kɑːnt/" }
+  ],
+  "vocabulary": [
+    { "word": "can", "meaning": "có thể" },
+    { "word": "can't", "meaning": "không thể" },
+    { "word": "fly a kite", "meaning": "thả diều" },
+    { "word": "skip", "meaning": "nhảy dây" },
+    { "word": "ride a bike", "meaning": "đi xe đạp" }
+  ]
+},
+        {
+  "id": 514,
+  "title": "5.Things We Can Do-Lesson 1",
+  "icon": "🏸",
+  "subtitle": "Hỏi và trả lời về khả năng của người khác",
+  "videoUrl": "",
+  "sentences": [
+    { "en": "Can Linh play badminton?", "vi": "Linh có thể chơi cầu lông không?", "ipa": "/kæn lɪnh pleɪ ˈbædmɪntən/" },
+    { "en": "Yes, she can.", "vi": "Có, bạn ấy có thể.", "ipa": "/jes ʃiː kæn/" },
+    { "en": "Can she play football?", "vi": "Bạn ấy có thể chơi bóng đá không?", "ipa": "/kæn ʃiː pleɪ ˈfʊtbɔːl/" },
+    { "en": "No, she can't. But she can swim.", "vi": "Không, bạn ấy không thể. Nhưng bạn ấy có thể bơi.", "ipa": "/nəʊ ʃiː kɑːnt | bət ʃiː kæn swɪm/" }
+  ],
+  "vocabulary": [
+    { "word": "can", "meaning": "có thể" },
+    { "word": "can't", "meaning": "không thể" },
+    { "word": "play badminton", "meaning": "chơi cầu lông" },
+    { "word": "play football", "meaning": "chơi bóng đá" },
+    { "word": "swim", "meaning": "bơi" }
+  ]
+},
+        {
+  "id": 515,
+  "title": "5.Things We Can Do-Lesson 3",
+  "icon": "🤸",
+  "subtitle": "Nói về khả năng của bạn bè",
+  "videoUrl": "",
+  "sentences": [
+    {
+      "en": "I have three friends, Ha, Khoa and Rosie. Ha can play badminton, but she can't swim. Khoa can ride a bike, but he can't ride a horse. Rosie can play the piano, but she can't play the guitar. I can sing, but I can't dance. We can all roller skate.",
+      "vi": "Mình có ba người bạn là Hà, Khoa và Rosie. Hà có thể chơi cầu lông nhưng không thể bơi. Khoa có thể đi xe đạp nhưng không thể cưỡi ngựa. Rosie có thể chơi đàn piano nhưng không thể chơi đàn ghi-ta. Mình có thể hát nhưng không thể nhảy. Tất cả chúng mình đều có thể trượt pa-tin.",
+      "ipa": "/aɪ hæv θriː frendz hɑː kwoʊə ænd ˈrəʊzi | hɑː kæn pleɪ ˈbædmɪntən bət ʃiː kɑːnt swɪm | kwoʊə kæn raɪd ə baɪk bət hiː kɑːnt raɪd ə hɔːs | ˈrəʊzi kæn pleɪ ðə piˈænəʊ bət ʃiː kɑːnt pleɪ ðə ɡɪˈtɑː | aɪ kæn sɪŋ bət aɪ kɑːnt dɑːns | wiː kæn ɔːl ˈrəʊlə skeɪt/"
+    }
+  ],
+  "vocabulary": [
+    { "word": "play badminton", "meaning": "chơi cầu lông" },
+    { "word": "swim", "meaning": "bơi" },
+    { "word": "ride a bike", "meaning": "đi xe đạp" },
+    { "word": "ride a horse", "meaning": "cưỡi ngựa" },
+    { "word": "play the piano", "meaning": "chơi đàn piano" },
+    { "word": "play the guitar", "meaning": "chơi đàn ghi-ta" },
+    { "word": "sing", "meaning": "hát" },
+    { "word": "dance", "meaning": "nhảy" },
+    { "word": "roller skate", "meaning": "trượt pa-tin" },
+    { "word": "can", "meaning": "có thể" },
+    { "word": "can't", "meaning": "không thể" }
+  ]
+},
     {
       "id": 5,
       "name": "Lớp 5",
