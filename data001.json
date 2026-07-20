@@ -2046,7 +2046,27 @@
               "meaning": "không thể"
             }
           ]
-        }
+        },
+        {
+  "id": 416,
+  "title": "6.Our School Facilities-Lesson 1?",
+  "icon": "🏫",
+  "subtitle": "Hỏi và nói về vị trí trường học",
+  "videoUrl": "",
+  "sentences": [
+    { "en": "Where's your school, Lucy?", "vi": "Trường của bạn ở đâu vậy, Lucy?", "ipa": "/weəz jɔː skuːl ˈluːsi/" },
+    { "en": "It's in the city.", "vi": "Nó ở trong thành phố.", "ipa": "/ɪts ɪn ðə ˈsɪti/" },
+    { "en": "And where's your school, Hung?", "vi": "Còn trường của bạn ở đâu vậy, Hùng?", "ipa": "/ænd weəz jɔː skuːl hʊŋ/" },
+    { "en": "It's in the mountains.", "vi": "Nó ở trên vùng núi.", "ipa": "/ɪts ɪn ðə ˈmaʊntənz/" }
+  ],
+  "vocabulary": [
+    { "word": "school", "meaning": "trường học" },
+    { "word": "city", "meaning": "thành phố" },
+    { "word": "mountains", "meaning": "vùng núi" },
+    { "word": "in the city", "meaning": "ở trong thành phố" },
+    { "word": "in the mountains", "meaning": "ở trên vùng núi" }
+  ]
+}
       ]
     },
     {
