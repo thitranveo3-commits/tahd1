@@ -2111,7 +2111,53 @@
     { "word": "play badminton", "meaning": "chơi cầu lông" },
     { "word": "play volleyball", "meaning": "chơi bóng chuyền" }
   ]
-}
+},
+        {
+  "id": 419,
+  "title": "7.Our Timetables-L1",
+  "icon": "📚",
+  "subtitle": "Hỏi về thời gian học và các môn học",
+  "videoUrl": "",
+  "sentences": [
+    { "en": "What time do you have class today, Minh?", "vi": "Hôm nay con học lúc mấy giờ, Minh?", "ipa": "/wɒt taɪm də juː hæv klɑːs təˈdeɪ mɪnh/" },
+    { "en": "At eight, Mum.", "vi": "Lúc tám giờ ạ, mẹ.", "ipa": "/æt eɪt mʌm/" },
+    { "en": "What subjects do you have today?", "vi": "Hôm nay con có những môn học nào?", "ipa": "/wɒt ˈsʌbdʒɪkts də juː hæv təˈdeɪ/" },
+    { "en": "I have English and maths.", "vi": "Con học môn Tiếng Anh và Toán.", "ipa": "/aɪ hæv ˈɪŋɡlɪʃ ænd mæθs/" }
+  ],
+  "vocabulary": [
+    { "word": "class", "meaning": "buổi học - lớp học" },
+    { "word": "subject", "meaning": "môn học" },
+    { "word": "English", "meaning": "Tiếng Anh" },
+    { "word": "maths", "meaning": "Toán" },
+    { "word": "have class", "meaning": "có buổi học" },
+    { "word": "have English", "meaning": "học môn Tiếng Anh" },
+    { "word": "have maths", "meaning": "học môn Toán" }
+  ]
+},
+        {
+  "id": 420,
+  "title": "7.Our Timetables-L2",
+  "icon": "📖",
+  "subtitle": "Hỏi về các môn học và thời khóa biểu",
+  "videoUrl": "",
+  "sentences": [
+    { "en": "What subjects do you have today?", "vi": "Hôm nay bạn có những môn học nào?", "ipa": "/wɒt ˈsʌbdʒɪkts də juː hæv təˈdeɪ/" },
+    { "en": "I have Vietnamese and science.", "vi": "Mình học môn Tiếng Việt và Khoa học.", "ipa": "/aɪ hæv ˌvjetnəˈmiːz ænd ˈsaɪəns/" },
+    { "en": "When do you have maths?", "vi": "Bạn học môn Toán khi nào?", "ipa": "/wen də juː hæv mæθs/" },
+    { "en": "I have it on Mondays and Fridays.", "vi": "Mình học môn đó vào thứ Hai và thứ Sáu.", "ipa": "/aɪ hæv ɪt ɒn ˈmʌndeɪz ænd ˈfraɪdeɪz/" }
+  ],
+  "vocabulary": [
+    { "word": "subject", "meaning": "môn học" },
+    { "word": "Vietnamese", "meaning": "Tiếng Việt" },
+    { "word": "science", "meaning": "Khoa học" },
+    { "word": "maths", "meaning": "Toán" },
+    { "word": "have Vietnamese", "meaning": "học môn Tiếng Việt" },
+    { "word": "have science", "meaning": "học môn Khoa học" },
+    { "word": "on Mondays", "meaning": "vào các ngày thứ Hai" },
+    { "word": "on Fridays", "meaning": "vào các ngày thứ Sáu" }
+  ]
+},
+        
       ]
     },
     {
