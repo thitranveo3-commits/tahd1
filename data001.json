@@ -2049,7 +2049,7 @@
         },
         {
   "id": 416,
-  "title": "6.Our School Facilities-Lesson 1?",
+  "title": "6.Our School Facilities-L1",
   "icon": "🏫",
   "subtitle": "Hỏi và nói về vị trí trường học",
   "videoUrl": "",
@@ -2065,6 +2065,51 @@
     { "word": "mountains", "meaning": "vùng núi" },
     { "word": "in the city", "meaning": "ở trong thành phố" },
     { "word": "in the mountains", "meaning": "ở trên vùng núi" }
+  ]
+},
+        {
+  "id": 417,
+  "title": "6.Our School Facilities-L2",
+  "icon": "🏫",
+  "subtitle": "Hỏi về vị trí và số lượng tòa nhà của trường",
+  "videoUrl": "",
+  "sentences": [
+    { "en": "Where's your school, Bill?", "vi": "Trường của bạn ở đâu vậy, Bill?", "ipa": "/weəz jɔː skuːl bɪl/" },
+    { "en": "It's in the town.", "vi": "Nó ở trong thị trấn.", "ipa": "/ɪts ɪn ðə taʊn/" },
+    { "en": "How many buildings are there at your school?", "vi": "Trường của bạn có bao nhiêu tòa nhà?", "ipa": "/haʊ ˈmeni ˈbɪldɪŋz ɑː ðeər æt jɔː skuːl/" },
+    { "en": "There are three.", "vi": "Có ba tòa nhà.", "ipa": "/ðeər ɑː θriː/" }
+  ],
+  "vocabulary": [
+    { "word": "town", "meaning": "thị trấn" },
+    { "word": "building", "meaning": "tòa nhà" },
+    { "word": "how many", "meaning": "bao nhiêu" },
+    { "word": "there are", "meaning": "có" },
+    { "word": "at your school", "meaning": "ở trường của bạn" }
+  ]
+},
+        {
+  "id": 418,
+  "title": "6.Our School Facilities-L3",
+  "icon": "🏫",
+  "subtitle": "Giới thiệu về trường học",
+  "videoUrl": "",
+  "sentences": [
+    {
+      "en": "Our school is big. It is in the village. There are three buildings and a garden at our school. The garden has many trees and flowers. There is a big playground. We can play football, badminton and volleyball there.",
+      "vi": "Trường của chúng mình rất lớn. Trường ở trong làng. Trường có ba tòa nhà và một khu vườn. Khu vườn có nhiều cây và hoa. Có một sân chơi lớn. Chúng mình có thể chơi bóng đá, cầu lông và bóng chuyền ở đó.",
+      "ipa": "/aʊə skuːl ɪz bɪɡ | ɪt ɪz ɪn ðə ˈvɪlɪdʒ | ðeər ɑː θriː ˈbɪldɪŋz ænd ə ˈɡɑːdn æt aʊə skuːl | ðə ˈɡɑːdn hæz ˈmeni triːz ænd ˈflaʊəz | ðeər ɪz ə bɪɡ ˈpleɪɡraʊnd | wiː kæn pleɪ ˈfʊtbɔːl ˈbædmɪntən ænd ˈvɒlibɔːl ðeə/"
+    }
+  ],
+  "vocabulary": [
+    { "word": "village", "meaning": "làng" },
+    { "word": "building", "meaning": "tòa nhà" },
+    { "word": "garden", "meaning": "khu vườn" },
+    { "word": "tree", "meaning": "cây" },
+    { "word": "flower", "meaning": "hoa" },
+    { "word": "playground", "meaning": "sân chơi" },
+    { "word": "play football", "meaning": "chơi bóng đá" },
+    { "word": "play badminton", "meaning": "chơi cầu lông" },
+    { "word": "play volleyball", "meaning": "chơi bóng chuyền" }
   ]
 }
       ]
