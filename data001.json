@@ -2157,7 +2157,243 @@
     { "word": "on Fridays", "meaning": "vào các ngày thứ Sáu" }
   ]
 },
-        
+     {
+  "id": 421,
+  "title": "7.Our Timetables-L3",
+  "icon": "📚",
+  "subtitle": "Giới thiệu thời khóa biểu của mình",
+  "videoUrl": "",
+  "sentences": [
+    {
+      "en": "My name is Minh. I go to school from Mondays to Fridays. I have Vietnamese and maths every school day. I have English on Mondays, Thursdays and Fridays. I have science on Wednesdays and Thursdays. I have music on Tuesdays. I like music very much.",
+      "vi": "Mình tên là Minh. Mình đi học từ thứ Hai đến thứ Sáu. Mỗi ngày đi học mình đều học Tiếng Việt và Toán. Mình học Tiếng Anh vào thứ Hai, thứ Năm và thứ Sáu. Mình học Khoa học vào thứ Tư và thứ Năm. Mình học Âm nhạc vào thứ Ba. Mình rất thích môn Âm nhạc.",
+      "ipa": "/maɪ neɪm ɪz mɪnh | aɪ ɡəʊ tə skuːl frəm ˈmʌndeɪz tə ˈfraɪdeɪz | aɪ hæv ˌvjetnəˈmiːz ænd mæθs ˈevri skuːl deɪ | aɪ hæv ˈɪŋɡlɪʃ ɒn ˈmʌndeɪz ˈθɜːzdeɪz ænd ˈfraɪdeɪz | aɪ hæv ˈsaɪəns ɒn ˈwenzdeɪz ænd ˈθɜːzdeɪz | aɪ hæv ˈmjuːzɪk ɒn ˈtjuːzdeɪz | aɪ laɪk ˈmjuːzɪk ˈveri mʌtʃ/"
+    }
+  ],
+  "vocabulary": [
+    { "word": "from Mondays to Fridays", "meaning": "từ thứ Hai đến thứ Sáu" },
+    { "word": "every school day", "meaning": "mỗi ngày đi học" },
+    { "word": "Vietnamese", "meaning": "Tiếng Việt" },
+    { "word": "maths", "meaning": "Toán" },
+    { "word": "English", "meaning": "Tiếng Anh" },
+    { "word": "science", "meaning": "Khoa học" },
+    { "word": "music", "meaning": "Âm nhạc" },
+    { "word": "on Wednesdays", "meaning": "vào các ngày thứ Tư" },
+    { "word": "on Thursdays", "meaning": "vào các ngày thứ Năm" },
+    { "word": "like ... very much", "meaning": "rất thích" }
+  ]
+},
+        {
+  "id": 422,
+  "title": "8.My Favourite Subject-L1",
+  "icon": "📚",
+  "subtitle": "Hỏi về môn học và môn học yêu thích",
+  "videoUrl": "",
+  "sentences": [
+    { "en": "Hi, Linh. What subjects do you have today?", "vi": "Chào Linh. Hôm nay bạn có những môn học nào?", "ipa": "/haɪ lɪnh | wɒt ˈsʌbdʒɪkts də juː hæv təˈdeɪ/" },
+    { "en": "I have English, science and maths.", "vi": "Mình học môn Tiếng Anh, Khoa học và Toán.", "ipa": "/aɪ hæv ˈɪŋɡlɪʃ ˈsaɪəns ænd mæθs/" },
+    { "en": "I like art. What's your favourite subject?", "vi": "Mình thích môn Mỹ thuật. Môn học yêu thích của bạn là gì?", "ipa": "/aɪ laɪk ɑːt | wɒts jɔː ˈfeɪvərɪt ˈsʌbdʒɪkt/" },
+    { "en": "It's P.E.", "vi": "Đó là môn Thể dục.", "ipa": "/ɪts ˌpiːˈiː/" }
+  ],
+  "vocabulary": [
+    { "word": "English", "meaning": "Tiếng Anh" },
+    { "word": "science", "meaning": "Khoa học" },
+    { "word": "maths", "meaning": "Toán" },
+    { "word": "art", "meaning": "Mỹ thuật" },
+    { "word": "P.E.", "meaning": "Thể dục" },
+    { "word": "favourite subject", "meaning": "môn học yêu thích" },
+    { "word": "like", "meaning": "thích" }
+  ]
+},
+        {
+  "id": 423,
+  "title": "8.My Favourite Subject-L2",
+  "icon": "🎓",
+  "subtitle": "Hỏi và nói về lý do yêu thích môn học",
+  "videoUrl": "",
+  "sentences": [
+    { "en": "What's your favourite subject, Nam?", "vi": "Nam, môn học yêu thích của bạn là gì?", "ipa": "/wɒts jɔː ˈfeɪvərɪt ˈsʌbdʒɪkt næm/" },
+    { "en": "It's English.", "vi": "Đó là môn Tiếng Anh.", "ipa": "/ɪts ˈɪŋɡlɪʃ/" },
+    { "en": "Why do you like English?", "vi": "Tại sao bạn thích môn Tiếng Anh?", "ipa": "/waɪ də juː laɪk ˈɪŋɡlɪʃ/" },
+    { "en": "Because I want to be an English teacher.", "vi": "Bởi vì mình muốn trở thành giáo viên Tiếng Anh.", "ipa": "/bɪˈkɒz aɪ wɒnt tə biː ən ˈɪŋɡlɪʃ ˈtiːtʃə/" }
+  ],
+  "vocabulary": [
+    { "word": "favourite subject", "meaning": "môn học yêu thích" },
+    { "word": "English", "meaning": "Tiếng Anh" },
+    { "word": "because", "meaning": "bởi vì" },
+    { "word": "want to be", "meaning": "muốn trở thành" },
+    { "word": "English teacher", "meaning": "giáo viên Tiếng Anh" }
+  ]
+},
+        {
+  "id": 424,
+  "title": "8.My Favourite Subject-L3",
+  "icon": "📖",
+  "subtitle": "Nói về các môn học yêu thích và ước mơ",
+  "videoUrl": "",
+  "sentences": [
+    {
+      "en": "My name is Peter. It is Thursday today. I have English, P.E., music, art and maths at school. My favourite subject is English. I like it because I want to be an English teacher. I also like music because I want to be a singer too. I do not like maths because I am not good at it.",
+      "vi": "Mình tên là Peter. Hôm nay là thứ Năm. Mình học các môn Tiếng Anh, Thể dục, Âm nhạc, Mỹ thuật và Toán ở trường. Môn học yêu thích của mình là Tiếng Anh. Mình thích môn này vì muốn trở thành giáo viên Tiếng Anh. Mình cũng thích Âm nhạc vì muốn trở thành ca sĩ. Mình không thích môn Toán vì mình không giỏi môn đó.",
+      "ipa": "/maɪ neɪm ɪz ˈpiːtə | ɪt ɪz ˈθɜːzdeɪ təˈdeɪ | aɪ hæv ˈɪŋɡlɪʃ ˌpiːˈiː ˈmjuːzɪk ɑːt ænd mæθs æt skuːl | maɪ ˈfeɪvərɪt ˈsʌbdʒɪkt ɪz ˈɪŋɡlɪʃ | aɪ laɪk ɪt bɪˈkɒz aɪ wɒnt tə biː ən ˈɪŋɡlɪʃ ˈtiːtʃə | aɪ ˈɔːlsəʊ laɪk ˈmjuːzɪk bɪˈkɒz aɪ wɒnt tə biː ə ˈsɪŋə tuː | aɪ duː nɒt laɪk mæθs bɪˈkɒz aɪ æm nɒt ɡʊd æt ɪt/"
+    }
+  ],
+  "vocabulary": [
+    { "word": "English", "meaning": "Tiếng Anh" },
+    { "word": "P.E.", "meaning": "Thể dục" },
+    { "word": "music", "meaning": "Âm nhạc" },
+    { "word": "art", "meaning": "Mỹ thuật" },
+    { "word": "maths", "meaning": "Toán" },
+    { "word": "favourite subject", "meaning": "môn học yêu thích" },
+    { "word": "English teacher", "meaning": "giáo viên Tiếng Anh" },
+    { "word": "singer", "meaning": "ca sĩ" },
+    { "word": "be good at", "meaning": "giỏi về" },
+    { "word": "want to be", "meaning": "muốn trở thành" }
+  ]
+},
+        {
+  "id": 425,
+  "title": "9.Our Sports Day-L1",
+  "icon": "🏅",
+  "subtitle": "Nói về ngày hội thể thao",
+  "videoUrl": "",
+  "sentences": [
+    { "en": "Our sports day is in May. We play many sports and games.", "vi": "Ngày hội thể thao của trường mình diễn ra vào tháng Năm. Chúng mình chơi nhiều môn thể thao và trò chơi.", "ipa": "/aʊə spɔːts deɪ ɪz ɪn meɪ | wiː pleɪ ˈmeni spɔːts ænd ɡeɪmz/" },
+    { "en": "Great! I like sports.", "vi": "Tuyệt quá! Mình thích thể thao.", "ipa": "/ɡreɪt | aɪ laɪk spɔːts/" },
+    { "en": "Is your sports day in May too?", "vi": "Ngày hội thể thao của trường bạn cũng vào tháng Năm à?", "ipa": "/ɪz jɔː spɔːts deɪ ɪn meɪ tuː/" },
+    { "en": "No, it isn't. It's in April.", "vi": "Không, không phải. Nó diễn ra vào tháng Tư.", "ipa": "/nəʊ ɪt ˈɪznt | ɪts ɪn ˈeɪprəl/" }
+  ],
+  "vocabulary": [
+    { "word": "sports day", "meaning": "ngày hội thể thao" },
+    { "word": "sport", "meaning": "môn thể thao" },
+    { "word": "game", "meaning": "trò chơi" },
+    { "word": "play sports", "meaning": "chơi thể thao" },
+    { "word": "play games", "meaning": "chơi trò chơi" },
+    { "word": "April", "meaning": "tháng Tư" },
+    { "word": "May", "meaning": "tháng Năm" }
+  ]
+},
+        {
+  "id": 426,
+  "title": "9.Our Sports Day-L2",
+  "icon": "🏃",
+  "subtitle": "Hỏi và nói về ngày hội thể thao",
+  "videoUrl": "",
+  "sentences": [
+    { "en": "What's that?", "vi": "Đó là gì vậy?", "ipa": "/wɒts ðæt/" },
+    { "en": "It's a picture of our sports day.", "vi": "Đó là một bức ảnh về ngày hội thể thao của trường mình.", "ipa": "/ɪts ə ˈpɪktʃə əv aʊə spɔːts deɪ/" },
+    { "en": "When's your sports day?", "vi": "Ngày hội thể thao của trường bạn khi nào?", "ipa": "/wenz jɔː spɔːts deɪ/" },
+    { "en": "It's in October.", "vi": "Nó diễn ra vào tháng Mười.", "ipa": "/ɪts ɪn ɒkˈtəʊbə/" }
+  ],
+  "vocabulary": [
+    { "word": "picture", "meaning": "bức ảnh" },
+    { "word": "sports day", "meaning": "ngày hội thể thao" },
+    { "word": "October", "meaning": "tháng Mười" },
+    { "word": "picture of", "meaning": "bức ảnh về" },
+    { "word": "in October", "meaning": "vào tháng Mười" }
+  ]
+},
+      {
+  "id": 427,
+  "title": "9.Our Sports Day-L3",
+  "icon": "🏅",
+  "subtitle": "Giới thiệu về ngày hội thể thao",
+  "videoUrl": "",
+  "sentences": [
+    {
+      "en": "Our sports day is in November. It is in the school playground. There are many pupils and teachers. We play different sports and games. The boys play badminton. The girls play football. The teachers play basketball. It is a lot of fun.",
+      "vi": "Ngày hội thể thao của trường mình diễn ra vào tháng Mười Một. Nó được tổ chức ở sân trường. Có rất nhiều học sinh và giáo viên. Chúng mình chơi nhiều môn thể thao và trò chơi khác nhau. Các bạn nam chơi cầu lông. Các bạn nữ chơi bóng đá. Các thầy cô chơi bóng rổ. Ngày hội rất vui.",
+      "ipa": "/aʊə spɔːts deɪ ɪz ɪn nəʊˈvembə | ɪt ɪz ɪn ðə skuːl ˈpleɪɡraʊnd | ðeər ɑː ˈmeni ˈpjuːplz ænd ˈtiːtʃəz | wiː pleɪ ˈdɪfrənt spɔːts ænd ɡeɪmz | ðə bɔɪz pleɪ ˈbædmɪntən | ðə ɡɜːlz pleɪ ˈfʊtbɔːl | ðə ˈtiːtʃəz pleɪ ˈbɑːskɪtbɔːl | ɪt ɪz ə lɒt əv fʌn/"
+    }
+  ],
+  "vocabulary": [
+    { "word": "sports day", "meaning": "ngày hội thể thao" },
+    { "word": "November", "meaning": "tháng Mười Một" },
+    { "word": "school playground", "meaning": "sân trường" },
+    { "word": "pupil", "meaning": "học sinh" },
+    { "word": "teacher", "meaning": "giáo viên" },
+    { "word": "different sports", "meaning": "các môn thể thao khác nhau" },
+    { "word": "badminton", "meaning": "cầu lông" },
+    { "word": "football", "meaning": "bóng đá" },
+    { "word": "basketball", "meaning": "bóng rổ" },
+    { "word": "a lot of fun", "meaning": "rất vui" }
+  ]
+},
+        {
+  "id": 428,
+  "title": "10.Our Summer Holidays-L1",
+  "icon": "🏞️",
+  "subtitle": "Nói về nơi đã đến vào cuối tuần trước",
+  "videoUrl": "",
+  "sentences": [
+    { "en": "I was in the countryside last weekend.", "vi": "Cuối tuần trước mình đã ở vùng quê.", "ipa": "/aɪ wəz ɪn ðə ˈkʌntrisaɪd lɑːst ˌwiːkˈend/" },
+    { "en": "That's great!", "vi": "Tuyệt quá!", "ipa": "/ðæts ɡreɪt/" },
+    { "en": "Were you in the countryside last weekend?", "vi": "Cuối tuần trước bạn có ở vùng quê không?", "ipa": "/wɜː juː ɪn ðə ˈkʌntrisaɪd lɑːst ˌwiːkˈend/" },
+    { "en": "No, I wasn't. I was in the mountains.", "vi": "Không, mình không ở đó. Mình đã ở vùng núi.", "ipa": "/nəʊ aɪ ˈwɒznt | aɪ wəz ɪn ðə ˈmaʊntənz/" }
+  ],
+  "vocabulary": [
+    { "word": "last weekend", "meaning": "cuối tuần trước" },
+    { "word": "countryside", "meaning": "vùng quê" },
+    { "word": "mountains", "meaning": "vùng núi" },
+    { "word": "was", "meaning": "đã ở (quá khứ của am/is)" },
+    { "word": "were", "meaning": "đã ở (quá khứ của are)" },
+    { "word": "wasn't", "meaning": "đã không ở" }
+  ]
+},
+        {
+  "id": 429,
+  "title": "10.Our Summer Holidays-L2",
+  "icon": "✈️",
+  "subtitle": "Hỏi và nói về nơi đã đến trong kỳ nghỉ hè",
+  "videoUrl": "",
+  "sentences": [
+    { "en": "Were you in London last summer, Mary?", "vi": "Mùa hè năm ngoái bạn có ở Luân Đôn không, Mary?", "ipa": "/wɜː juː ɪn ˈlʌndən lɑːst ˈsʌmə ˈmeəri/" },
+    { "en": "No, I wasn't.", "vi": "Không, mình không ở đó.", "ipa": "/nəʊ aɪ ˈwɒznt/" },
+    { "en": "Where were you last summer?", "vi": "Mùa hè năm ngoái bạn đã ở đâu?", "ipa": "/weə wɜː juː lɑːst ˈsʌmə/" },
+    { "en": "I was in Tokyo.", "vi": "Mình đã ở Tokyo.", "ipa": "/aɪ wəz ɪn ˈtəʊkiəʊ/" }
+  ],
+  "vocabulary": [
+    { "word": "last summer", "meaning": "mùa hè năm ngoái" },
+    { "word": "London", "meaning": "Luân Đôn" },
+    { "word": "Tokyo", "meaning": "Tokyo" },
+    { "word": "were", "meaning": "đã ở (quá khứ của are)" },
+    { "word": "was", "meaning": "đã ở (quá khứ của am - is)" },
+    { "word": "wasn't", "meaning": "đã không ở" }
+  ]
+},
+        {
+  "id": 430,
+  "title": "10.Our Summer Holidays-L3",
+  "icon": "🌴",
+  "subtitle": "Kể về kỳ nghỉ của mình",
+  "videoUrl": "",
+  "sentences": [
+    {
+      "en": "I am Mai. Last summer, I was on holiday in London. The city was busy. The food was good. The people were helpful. My holiday was great!",
+      "vi": "Mình là Mai. Mùa hè năm ngoái, mình đã đi nghỉ ở Luân Đôn. Thành phố rất nhộn nhịp. Đồ ăn ngon. Mọi người rất nhiệt tình. Kỳ nghỉ của mình thật tuyệt!",
+      "ipa": "/aɪ æm maɪ | lɑːst ˈsʌmə aɪ wəz ɒn ˈhɒlədeɪ ɪn ˈlʌndən | ðə ˈsɪti wəz ˈbɪzi | ðə fuːd wəz ɡʊd | ðə ˈpiːpl wə ˈhelpfəl | maɪ ˈhɒlədeɪ wəz ɡreɪt/"
+    },
+    {
+      "en": "My name is Tony. I was on holiday in Ha Long Bay last summer. The bay was beautiful. The food was excellent. The people were friendly. My holiday was very nice!",
+      "vi": "Mình tên là Tony. Mùa hè năm ngoái, mình đã đi nghỉ ở Vịnh Hạ Long. Vịnh rất đẹp. Đồ ăn rất ngon. Mọi người rất thân thiện. Kỳ nghỉ của mình rất tuyệt vời!",
+      "ipa": "/maɪ neɪm ɪz ˈtəʊni | aɪ wəz ɒn ˈhɒlədeɪ ɪn hɑː lɒŋ beɪ lɑːst ˈsʌmə | ðə beɪ wəz ˈbjuːtəfəl | ðə fuːd wəz ˈeksələnt | ðə ˈpiːpl wə ˈfrendli | maɪ ˈhɒlədeɪ wəz ˈveri naɪs/"
+    }
+  ],
+  "vocabulary": [
+    { "word": "on holiday", "meaning": "đi nghỉ" },
+    { "word": "last summer", "meaning": "mùa hè năm ngoái" },
+    { "word": "London", "meaning": "Luân Đôn" },
+    { "word": "Ha Long Bay", "meaning": "Vịnh Hạ Long" },
+    { "word": "city", "meaning": "thành phố" },
+    { "word": "bay", "meaning": "vịnh" },
+    { "word": "busy", "meaning": "nhộn nhịp" },
+    { "word": "beautiful", "meaning": "đẹp" },
+    { "word": "good", "meaning": "ngon - tốt" },
+    { "word": "excellent", "meaning": "xuất sắc - rất ngon" },
+    { "word": "helpful", "meaning": "hay giúp đỡ - nhiệt tình" },
+    { "word": "friendly", "meaning": "thân thiện" }
+  ]
+}
       ]
     },
     {
